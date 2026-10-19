@@ -778,7 +778,7 @@ https://linear-318.frequency.stream/dist/vizio/318/hls/master/playlist.m3u8?ads.
 #EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/rok-1d889b474b205fe385a2c552aa909b94.m3u8
-#EXTINF:0 group-title="00ES",192, Novelas de oro (ViX)
+#EXTINF:0 group-title="00ES",192. Novelas de oro (ViX)
 #EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/rok-ab6cd6569bf6557a8c5d9798cfce202b.m3u8
@@ -945,62 +945,62 @@ https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999225
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=VLC/3.0.21 LibVLC/3.0.21
 http://45.167.1.136:8000/play/a02i
-#EXTINF:0 group-title="0000",233. 
-#EXTGRP:0000
+#EXTINF:0 group-title="00ES",233. perfil tv
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",234. 
-#EXTGRP:0000
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="00ES",234. comercio tv
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",235. 
-#EXTGRP:0000
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=1787194388500&network_id=16960&live=1&avod=1&hls_marker=1&ssai_enabled=1&gdpr=0&ifa_type=sessionid&site_page=https%3A%2F%2Fcomercio.tv%2F&site_name=ComercioTV&coppa=0&us_privacy=1---
+#EXTINF:0 group-title="00ES",235. negocios tv
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",236. 
-#EXTGRP:0000
+https://negociostv-negociostv-rlaxx.amagi.tv/hls/amagi_hls_data_negociost-negociostv-rlaxxtv/CDN/playlist.m3u8?tag_id=104070&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0253&content_producer_name=AmagiConnect_NEGOCIOSTV_NEGOCIOSTV&content_categories=IAB12%2CIAB12-1%2CIAB13-3%2CIAB3&content_custom_1_param=Amagi&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&sid=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
+#EXTINF:0 group-title="00ES",236. pura noticia
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",237. 
-#EXTGRP:0000
+https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="00ES",237. noticias telemundo ahora
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",238. 
-#EXTGRP:0000
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814626/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814626&ads.xumo_streamId=88814626&declaredCC1Language=en&ads.caid=TelemundoNoticiasAhora&ads.csid=tcl2_us_telemundonoticiasahora_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=News&ads._fw_content_category=IAB1-7&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=3944&ads.xumo_contentName=TelemundoNoticiasAhora&ads.xumo_providerId=3944&ads.xumo_providerName=TelemundoNoticiasAhora&ads.xumo_channelName=TelemundoNoticiasAhora&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+#EXTINF:0 group-title="00ES",238. RT actualidad
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",239. 
-#EXTGRP:0000
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:0 group-title="00ES",239. Ch_239
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",240. 
-#EXTGRP:0000
+http://181.78.12.119:16123/play/ch80/index.m3u8
+#EXTINF:0 group-title="00ES",240. Popular tv murcia
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",241. 
-#EXTGRP:0000
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12690&live=1
+#EXTINF:0 group-title="00ES",241. newsmax
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000 
+https://d29h829bjuxghm.cloudfront.net/hls/index.m3u8?ads.xumo_channelId=99992174&ads.xumo_streamId=99992174&ads.channelId=99992174&ads.csid=lgchannels_mx_newsmax_ssai&ads.channelName=newsmax_es&ads.xumo_contentName=Newsmax&ads.xumo_contentId=141&ads.xumo_providerName=Newsmax&ads.xumo_providerId=141&ads.content_category=IAB1-7&ads.content_genre=news&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:0 group-title="00ES",242. euro news
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",242. 
-#EXTGRP:0000
+https://jmp2.uk/rok-8acb4f9b8a255216966db355daaa1749.m3u8
+#EXTINF:0 group-title="00ES",243. TVE 24h
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",243. 
-#EXTGRP:0000
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
+#EXTINF:0 group-title="00ES",244. estrella noticias
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",244. 
-#EXTGRP:0000
+https://amg00567-estrellamedia-estrellanews-distrotv-ddste.amagi.tv/playlist/amg00567-estrellamedia-estrellanews-distrotv/playlist.m3u8?ads.dpname=distrotv&c_producer=EstrellaNews&dnt=0&app_bundle=undefined&app_name=DistroTV&app_store_url=undefined&did=c9c89678-faab-4c6f-baac-bc9516102803&app_do...
+#EXTINF:0 group-title="00ES",245. telesur
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",245. 
-#EXTGRP:0000
+http://45.5.118.152:8000/play/a08w/index.m3u8
+#EXTINF:0 group-title="00ES",246. DW deutsche welle español
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",246. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:0 group-title="0000",247. 
 #EXTGRP:0000
 #EXTVLCOPT:network-caching=1000
