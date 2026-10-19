@@ -401,11 +401,11 @@ http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog
 #EXTGRP:0000
 #EXTVLCOPT:network-caching=1000
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="00ES",101. Telepetroleo
+#EXTINF:0 group-title="00ES",101. 
 #EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=VLC/3.0.21 LibVLC/3.0.21
-https://edge.teveo.net/live/AeAB_UnH5RySpz5X8HAlDuRKI8pE572wBFeRb-sloBLWB7P4wfVioVO5YBRHdqgVIdVNRKqG24U7dI7O97HGgIBM72YXHKN4z30GbKuQ8tCrCO_ZEA/playlist.m3u8
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 #EXTINF:0 group-title="00ES",102. Free TV banda 
 #EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
@@ -681,7 +681,7 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8
 #EXTINF:0 group-title="00ES",168. Caracol tv
-#EXTGRP:0000
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
 http://190.83.15.112:8000/play/a008/index.m3u8?hls
 #EXTINF:0 group-title="00ES",169. Caracol tv internacional
@@ -1211,1039 +1211,904 @@ http://205.235.6.29:8000/play/a0yt/index.m3u8?hls
 #EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
 https://s10host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/playlist.m3u8?ads.cdnhost=s10host4.localnow.api.cms.amdvids.com&ads.playbackid=BAA7B0C1-76FD-4DDD-87EA-7034BD93028F&ads.n1=rule_id&ads.v1=31E67C91-301F-4DA0-997C-55E852CBE4CB-1752176430&ads.n3=qp_content_id&ads.v3=BAA7B0C1-76FD-4DDD-87EA-7034BD93028F&ads.n4=content_name&ads.v4=Vidas%20Extremas&ads.n21=app_name&ads.v21=&ads.n22=app_version&ads.v22=0.0.0&ads.n23=cust_devicename&ads.v23=desktop_web&ads.n24=url&ads.v24=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n25=channel_ext_id&ads.v25=&ads.n26=h&ads.v26=1080&ads.n27=ua&ads.v27=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n28=content_producer_name&ads.v28=Warner%20Brothers%20Discovery&ads.n29=content_livestream&ads.v29=1&ads.n30=channel_corp&ads.v30=Warner%20Brothers%20Discovery&ads.n31=app_bundle&ads.v31=&ads.n32=app_store_url&ads.v32=&ads.n33=channel_brand_id&ads.v33=AMDB013591&ads.n34=content_custom_1_param&ads.v34=BAA7B0C1-76FD-4DDD-87EA-7034BD93028F&ads.n35=us_privacy&ads.v35=1YNY&ads.n36=content_provider&ads.v36=vidas-extremas-de-wbtv&ads.n37=ip&ads.v37=86.48.9.131&ads.n38=device_model&ads.v38=&ads.n39=ifa_type&ads.v39=&ads.n40=content_custom_3_param&ads.v40=channel&ads.n41=device_make&ads.v41=&ads.n42=did&ads.v42=&ads.n43=channel_name&ads.v43=Vidas%20Extremas&ads.n44=channel_language&ads.v44=en&ads.n45=content_custom_2_param&ads.v45=AMDB013591&ads.n46=gpp&ads.v46=&ads.n47=device_type&ads.v47=&ads.n48=channel_genre&ads.v48=En%20Espanol&ads.n49=pos&ads.v49=midroll&ads.n50=dnt&ads.v50=&ads.n51=w&ads.v51=1920&ads.n52=channel_id&ads.v52=BAA7B0C1-76FD-4DDD-87EA-7034BD93028F&ads.n53=channel_title&ads.v53=Vidas%20Extremas&ads.n54=channel_rating&ads.v54=TV-PG&ads.n55=channel_company_id&ads.v55=AMDP500559&ads.n56=content_type&ads.v56=channel&ads.n57=gpp_sid&ads.v57=&ads.n58=network_name&ads.v58=vidas-extremas-de-wbtv
-#EXTINF:0 group-title="0000",299. 
+#EXTINF:0 group-title="00ES",299. crimen de warner tv
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://s10host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/playlist.m3u8?ads.cdnhost=s10host4.localnow.api.cms.amdvids.com&ads.playbackid=6A552BBF-F6F5-43F6-A5DB-BCE796FBCB7B&ads.n1=rule_id&ads.v1=31E67C91-301F-4DA0-997C-55E852CBE4CB-1752176430&ads.n3=qp_content_id&ads.v3=6A552BBF-F6F5-43F6-A5DB-BCE796FBCB7B&ads.n4=content_name&ads.v4=Crimen&ads.n21=app_version&ads.v21=0.0.0&ads.n22=channel_rating&ads.v22=TV-PG&ads.n23=app_store_url&ads.v23=&ads.n24=channel_corp&ads.v24=Warner%20Brothers%20Discovery&ads.n25=content_livestream&ads.v25=1&ads.n26=device_model&ads.v26=&ads.n27=channel_ext_id&ads.v27=&ads.n28=channel_brand_id&ads.v28=AMDB013587&ads.n29=h&ads.v29=1080&ads.n30=device_make&ads.v30=&ads.n31=us_privacy&ads.v31=1YNY&ads.n32=cust_devicename&ads.v32=desktop_web&ads.n33=pos&ads.v33=midroll&ads.n34=content_custom_3_param&ads.v34=channel&ads.n35=channel_language&ads.v35=en&ads.n36=content_type&ads.v36=channel&ads.n37=dnt&ads.v37=&ads.n38=content_custom_2_param&ads.v38=AMDB013587&ads.n39=content_producer_name&ads.v39=Warner%20Brothers%20Discovery&ads.n40=channel_id&ads.v40=6A552BBF-F6F5-43F6-A5DB-BCE796FBCB7B&ads.n41=gpp&ads.v41=&ads.n42=url&ads.v42=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n43=ip&ads.v43=86.48.9.131&ads.n44=content_provider&ads.v44=crimen-de-wbtv-crimen&ads.n45=gpp_sid&ads.v45=&ads.n46=w&ads.v46=1920&ads.n47=device_type&ads.v47=&ads.n48=app_bundle&ads.v48=&ads.n49=app_name&ads.v49=&ads.n50=content_custom_1_param&ads.v50=6A552BBF-F6F5-43F6-A5DB-BCE796FBCB7B&ads.n51=channel_name&ads.v51=Crimen&ads.n52=ua&ads.v52=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n53=channel_company_id&ads.v53=AMDP500559&ads.n54=ifa_type&ads.v54=&ads.n55=channel_title&ads.v55=Crimen&ads.n56=network_name&ads.v56=crimen-de-wbtv-crimen&ads.n57=did&ads.v57=&ads.n58=channel_genre&ads.v58=En%20Espanol
+#EXTINF:0 group-title="00ES",300. cheaters
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992630&ads.xumo_streamId=99992630&ads.channelId=99992630&ads.ad_tag_id=130809&ads.csid=lgchannels_mx_filmrisecheaters_ssai&ads.channelName=cheatersenespanol_mx&ads.xumo_contentName=FilmRise&ads.xumo_contentId=260&ads.xumo_providerName=FilmRise&ads.xumo_providerId=260&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=es&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:0 group-title="00ES",301. c4 en alerta
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13743&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+#EXTINF:0 group-title="00ES",302. crimen & historia
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://amg01821-amg01821c23-xiaomi-international-4612.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovecrimeandhistoryspain-xiaomiinternational/playlist.m3u8
+#EXTINF:0 group-title="00ES",303. a&e
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://45.5.117.3:4000/play/a04y/index.m3u8
+#EXTINF:0 group-title="00ES",304. todo crimen
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992176&ads.xumo_streamId=99992176&ads.channelId=99992176&ads.ad_tag_id=134053&ads.csid=lgchannels_es_indigeniuscrimenspanish_ssai&ads.channelName=indigeniuscrimenspanish_es&ads.xumo_contentName=IndigeniusCrimenSpanish&ads.xumo_contentId=2192&ads.xumo_providerName=IndigeniusCrimenSpanish&ads.xumo_providerId=2192&ads.content_category=IAB1-7&ads.content_genre=entertainment&ads.content_language=es&ads.content_rating=TV-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:0 group-title="00ES",305. axn
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://190.121.128.250:8081/play/a0fs
+#EXTINF:0 group-title="00ES",306. crímenes reales
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-crimenesreales-rakutengb/playlist.m3u8?ads_amagi_channel_id=989&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=crime&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=185.214.97.75&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=16&ads_rtv_content_id=6735&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=9b5a2f2c-5dac-4f84-b850-97332cce46fd&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=
+#EXTINF:0 group-title="00ES",307. dark matter tv
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992264&ads.xumo_streamId=99992264&ads.channelId=99992264&ads.csid=lgchannels_mx_darkmattermexico_ssai&ads.channelName=darkmattermexico_mx&ads.xumo_contentName=DarkMatterMexico&ads.xumo_contentId=3441&ads.xumo_providerName=DarkMatterMexico&ads.xumo_providerId=3441&ads.content_category=IAB1-5&ads.content_genre=movies&ads.content_language=en&ads.content_rating=tv-ma&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:0 group-title="00ES",308. Tele posadas
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://lbgo.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8
+#EXTINF:0 group-title="00ES",309. universal tv
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.4 (Linux;Android 15; 15zss0o)
+http://190.83.15.112:8000/play/a066/index.m3u8?hls
+#EXTINF:0 group-title="00ES",310. Canal 34 San Juan
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:0 group-title="00ES",311. tv copán
 #EXTGRP:0000
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",300. 
-#EXTGRP:0000
+https://s.emisoras.tv:8081/tvcopan/index.m3u8
+#EXTINF:0 group-title="00ES",312. WTV
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",301. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",302. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",303. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",304. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",305. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",306. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",307. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",308. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",309. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",310. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",311. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",312. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",313. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",314. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",315. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",316. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",317. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",318. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",319. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",320. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",321. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",322. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",323. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",324. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",325. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",326. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",327. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",328. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",329. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",330. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",331. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",332. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",333. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",334. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",335. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",336. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",337. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",338. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",339. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",340. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",341. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",342. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",343. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",344. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",345. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",346. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",347. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",348. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",349. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",350. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",351. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",352. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",353. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",354. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",355. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",356. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",357. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:0 group-title="0000",358. 
 #EXTGRP:0000
 #EXTVLCOPT:network-caching=1000
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",359. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",360. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",361. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",362. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",363. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",364. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",365. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",366. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",367. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",368. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",369. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",370. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",371. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",372. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",373. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",374. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",375. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",376. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",377. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",378. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",379. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",380. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",381. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",382. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",383. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",384. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",385. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",386. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",387. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",388. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",389. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",390. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",391. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",392. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",393. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",394. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",395. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",396. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",397. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",398. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",399. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",400. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",401. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",402. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",403. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",404. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",405. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",406. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",407. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",408. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",409. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",410. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",411. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",412. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",413. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",414. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",415. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",416. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",417. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",418. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",419. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",420. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",421. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",422. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",423. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",424. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",425. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",426. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",427. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",428. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",429. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",430. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",431. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",432. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",433. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",434. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",435. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",436. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",437. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",438. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",439. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",440. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",441. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",442. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",443. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",444. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",445. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",446. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",447. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",448. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",449. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",450. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",451. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",452. 
-#EXTGRP:0000
+#EXTINF:0 group-title="00ES",359. Cine Western
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",453. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",454. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",455. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",456. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",457. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",458. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",459. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",460. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",461. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",462. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",463. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",464. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",465. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",466. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",467. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",468. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",469. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",470. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",471. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",472. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",473. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",474. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",475. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",476. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",477. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",478. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",479. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",480. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",481. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",482. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",483. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",484. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",485. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",486. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",487. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",488. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",489. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",490. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",491. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",492. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",493. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",494. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",495. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",496. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",497. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",498. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",499. 
-#EXTGRP:0000
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=67d18db6f2aeac64340ed5ba&AV_CONTENT_LANGUAGE=es&AV_CONTENT_GENRE=classics%20%26%20modern%20western&AV_CONTENT_CAT=IAB1-8&AV_CONTENT_RATING=PG&AV_CLIENT_SECTION=zylo_cinewesternes&content_channel_name=cinewesternes&content_livestream=1&AV_CONTENT_PROVIDER=Zylo&ads.vidaa_ads_param=1191723366
+#EXTINF:0 group-title="00ES",360. limón tv
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",500. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",501. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",502. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",503. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",504. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",505. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",506. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",507. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",508. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",509. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",510. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",511. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",512. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",513. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",514. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",515. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",516. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",517. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",518. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",519. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",520. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",521. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",522. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",523. 
-#EXTGRP:0000
+https://59ef525c24caa.streamlock.net/limontv1/limontv1/.m3u8
+#EXTINF:0 group-title="00ES",361. canal dtv
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",524. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",525. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",526. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",527. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",528. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",529. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",530. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",531. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",532. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",533. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",534. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",535. 
-#EXTGRP:0000
+https://s.emisoras.tv:8081/dtv/index.m3u8
+#EXTINF:0 group-title="00ES",362. imagen universal tv
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",536. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",537. 
-#EXTGRP:0000
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8
+#EXTINF:0 group-title="00ES",363. valle nuevo tv 
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",538. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",539. 
-#EXTGRP:0000
+https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
+#EXTINF:0 group-title="00ES",364. cosmos tv
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",540. 
-#EXTGRP:0000
+https://canaletaplus.com:3922/hybrid/play.m3u8
+#EXTINF:0 group-title="00ES",365. r&e tv
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",541. 
-#EXTGRP:0000
+https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8
+#EXTINF:0 group-title="00ES",366. neo tv
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",542. 
-#EXTGRP:0000
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:0 group-title="00ES",367. box cinema
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",543. 
-#EXTGRP:0000
+https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp_796/X2V8EZJVA1604HR5VJTX/hls3/now,-1m/m.m3u8?ads.channel_name=Box+Cinema&ads.content_cat=IAB1-5&ads.content_genre=Action%2CAdventure%2CCrime%2CDrama%2CEntertainment%2CFilm%2CMystery%2CLATAM%2CMovies%2CIndependent+Movies%2CHispanic&ads.content_id=SKL101&ads.content_language=es&ads.content_title=outlaws+buckle&ads.ic=IAB1-7&ads.provider=Klasko&ads.rating=TV14&ads.app_name=Whale+TV%2B&ads.device_make=&ads.device_model=&ads.did=cc873cb7-0d45-4bdd-af14-d8f2d7ff400c&ads.gdpr=0&ads.gdpr_consent=&ads.h=&ads.w=&ads.url=whaletvplus.com&ads.us_privacy=1YNN&ads.lmt=&ads.livestream=1&ads.coppa=0
+#EXTINF:0 group-title="00ES",368. bigtime
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",544. 
-#EXTGRP:0000
+https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8?ads.wurl_channel=1251&ads.wurl_name=BjgtjmePeliculasGratis&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D...
+#EXTINF:0 group-title="00ES",369. cine friki
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",545. 
-#EXTGRP:0000
+https://jmp2.uk/stvp-ESBD800001RJ
+#EXTINF:0 group-title="00ES",370. cine español 
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",546. 
-#EXTGRP:0000
+https://amg02724-somos-amg02724c1-lg-co-683.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-lgco/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ad...
+#EXTINF:0 group-title="00ES",371. mi miedo
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",547. 
-#EXTGRP:0000
+https://streams2.sofast.tv/sofast3/v1/019835b204cf1ea50649363a59b188/019835c7f7dd1ea506ec3d330f48ad/playlist.m3u8
+#EXTINF:0 group-title="00ES",372. bbc series
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",548. 
-#EXTGRP:0000
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaspain-rakutenes/playlist.m3u8?ads_amagi_channel_id=959&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=crime%2Cdrama%2Chistory&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=185.214.97.75&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=13&ads_rtv_content_id=3877&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=4c29b768-500d-422e-b1bb-0e61d2708431&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:0 group-title="00ES",372. cine latino
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",549. 
-#EXTGRP:0000
+http://181.78.49.113:9999/play/a06p/index.m3u8
+#EXTINF:0 group-title="00ES",373. mi raza
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",550. 
-#EXTGRP:0000
+https://streams2.sofast.tv/umaxx/v1/01971c1e82751ebd47042b72b0c032/01971c2023791ea506492f5bf73b63/playlist.m3u8
+#EXTINF:0 group-title="00ES",374. cindie tv
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",551. 
-#EXTGRP:0000
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+#EXTINF:0 group-title="00ES",375. panico
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",552. 
-#EXTGRP:0000
+http://181.78.8.199:8000/play/a0bt/index.m3u8
+#EXTINF:0 group-title="00ES",376. Red tve ventanas
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",553. 
-#EXTGRP:0000
+https://s2.tvdatta.com:3825/live/redtvelive.m3u8
+#EXTINF:0 group-title="00ES",377. Ch_377
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",554. 
-#EXTGRP:0000
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992262&ads.xumo_streamId=99992262&ads.channelId=99992262&ads.csid=lgchannels_mx_peliculasgratis_ssai&ads.channelName=peliculasgratis_mx&ads.xumo_contentName=XumoAggregate&ads.xumo_contentId=5&ads.xumo_providerName=XumoAggregate&ads.xumo_providerId=5&ads.content_category=IAB1-7&ads.content_genre=Movies&ads.content_language=es&ads.content_rating=tv-ma&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:0 group-title="00ES",378. xtra tv
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",555. 
-#EXTGRP:0000
+https://edge.essastream.com/xtratv/index.m3u8
+#EXTINF:0 group-title="00ES",379. Telemax do
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",556. 
-#EXTGRP:0000
+https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="00ES",380. Golden
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",557. 
+#EXTINF:0 group-title="00ES",381. Golden edge
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://38.188.48.83:8000/play/a0q8/index.m3u8
+#EXTINF:0 group-title="00ES",382. cine estrella tv
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/3900e8be-5992-4e76-9d58-9f858bee83a2/playlist.m3u8
+#EXTINF:0 group-title="00ES",383. FX
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://181.78.49.113:9999/play/a03z/index.m3u8?hls
+#EXTINF:0 group-title="00ES",384. Boreal televisión
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="00ES",385. todo cine
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-b015fcbafb496320954672321e746f8a.m3u8
+#EXTINF:0 group-title="00ES",386. space
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://181.118.153.15:8000/play/sf34/index.m3u8
+#EXTINF:0 group-title="00ES",387. DHE
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://181.119.67.133:8888/play/a04k/index.m3u8
+#EXTINF:0 group-title="00ES",388. TNT
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://181.118.153.15:8000/play/wr07/index.m3u8
+#EXTINF:0 group-title="00ES",389. TNT series
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://200.59.191.177:8000/play/a06z/index.m3u8
+#EXTINF:0 group-title="00ES",390. de pelicula
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://181.78.12.94:9000/play/a09d/index.m3u8
+#EXTINF:0 group-title="00ES",391. AMC
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://190.123.76.22:8002/play/a04r/index.m3u8
+#EXTINF:0 group-title="00ES",392. AMC Series
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://181.205.205.170:8000/play/a0vc/index.m3u8
+#EXTINF:0 group-title="00ES",393. AMC en español
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
+#EXTINF:0 group-title="00ES",394. Europa Europa
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://181.119.67.133:8888/play/a019/index.m3u8
+#EXTINF:0 group-title="00ES",395. cinecanal
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://190.123.76.22:8002/play/a02o/index.m3u8
+#EXTINF:0 group-title="00ES",396. todo drama
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=drama%2Cromance%2Csoap-opera&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusSpanish&ads.content_livestream=0&ads.csid=zeus_es_merli_ssai&ads.extra_eids=&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6828&ads.rakuten_streaming_id=33c1efab-b299-4266-a69e-c363c90d718f&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883119&ads.xumo_channel_id=88883119&ads.xumo_contentId=2054&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2054&ads.xumo_providerName=todo-drama-spa-rakutentv&ads.xumo_streamId=88883119
+#EXTINF:0 group-title="00ES",397. todo comedia
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=comedy&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusSpanish&ads.content_livestream=0&ads.csid=zeus_es_vayasemanita_ssai&ads.extra_eids=&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6978&ads.rakuten_streaming_id=89b10388-c314-43ae-8cc9-f34610147b5c&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883129&ads.xumo_channel_id=88883129&ads.xumo_contentId=1103&ads.xumo_contentName=Indigenius&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=1103&ads.xumo_providerName=todo-comedia-spa-rakutentv&ads.xumo_streamId=88883129
+#EXTINF:0 group-title="00ES",398. todo pasión
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=67d18bab41e3379ce208b478&AV_CONTENT_LANGUAGE=es&AV_CONTENT_GENRE=female%20drama&AV_CONTENT_CAT=IAB1-3&AV_CONTENT_RATING=PG-13&AV_CLIENT_SECTION=zylo_todopasion&content_channel_name=todopasion&content_livestream=1&AV_CONTENT_PROVIDER=Zylo&ads.vidaa_ads_param=1191723366
+#EXTINF:0 group-title="00ES",399. Cine romántico
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-79eb3a43680e5a9f9689fee074502a3b.m3u8
+#EXTINF:0 group-title="00ES",400. my time movies network
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="00ES",401. my time movies network 2
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="00ES",402. lg 1
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12781&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_..
+#EXTINF:0 group-title="00ES",403. lg 1 spotlight
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+#EXTINF:0 group-title="00ES",404. Cinepolis Channel
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://amg00740-sofa-amg00740c21-lg-mx-9398.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-cinepolislt-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.url=[URL]&ads.ic=[IC]&ads.coppa=[COPPA]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.dmake=[DEVICE_MAKE]
+#EXTINF:0 group-title="00ES",405. euro channel 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.136:8000/play/a02f
+#EXTINF:0 group-title="00ES",406. film & arts
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.136:8000/play/a00a
+#EXTINF:0 group-title="00ES",407. multicinema
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.136:8000/play/a02t
+#EXTINF:0 group-title="00ES",408. multipremier
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000 
+http://45.167.1.136:8000/play/a04k
+#EXTINF:0 group-title="00ES",409. studio universal 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.136:8000/play/a05f
+#EXTINF:0 group-title="00ES",410. TCM
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://190.123.76.22:8002/play/a03k/index.m3u8
+#EXTINF:0 group-title="00ES",411. Popcorn Central
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16571&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_mx&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+#EXTINF:0 group-title="00ES",412. Cine Club (vix) 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-017397f76bae510a8a9800c4b94eaa40.m3u8
+#EXTINF:0 group-title="00ES",413. free tv 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16511&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+#EXTINF:0 group-title="00ES",414. free tv sureño
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16513&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+#EXTINF:0 group-title="00ES",415. free tv acción
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-9fc6583c28985e15b3f05b46f5d77957.m3u8
+#EXTINF:0 group-title="00ES",416. free tv clásico
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16512&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+#EXTINF:0 group-title="00ES",417. free tv terror
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16514&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+#EXTINF:0 group-title="00ES",418. free tv estelar
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16563&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+#EXTINF:0 group-title="00ES",419. free tv familia 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16561&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+#EXTINF:0 group-title="00ES",420. free tv drama
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16562&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+#EXTINF:0 group-title="00ES",421. free tv asia
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8
+#EXTINF:0 group-title="00ES",422. sony
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://45.5.117.99:8000/play/a0hp/index.m3u8
+#EXTINF:0 group-title="00ES",423. sony movies
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://181.176.20.167:9050/play/a0q4/index.m3u8
+#EXTINF:0 group-title="00ES",424. sony cine 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:0 group-title="00ES",425. sony one hits acción
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
+#EXTINF:0 group-title="00ES",426. sony one hits comedia
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8
+#EXTINF:0 group-title="00ES",427. sony one éxitos
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
+#EXTINF:0 group-title="00ES",428. sony one the blacklist
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
+#EXTINF:0 group-title="00ES",429. sony one cinema
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
+#EXTINF:0 group-title="00ES",430. filmelier tv
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://amg00740-sofa-amg00740c10-lg-mx-8915.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-filmelierspanish-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE
+#EXTINF:0 group-title="00ES",431. filmelier tv vida real
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://amg00740-sofa-amg00740c20-lg-mx-8976.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-filmeliertvvidarealspanish-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:0 group-title="00ES",432. filmelier tv esperanza
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://amg00740-sofa-amg00740c14-lg-mx-8914.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-filmeliertvesperanza-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:0 group-title="00ES",433. filmelier tv pasión
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://amg00740-sofa-amg00740c19-lg-mx-8924.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-filmeliertvpasion-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:0 group-title="00ES",434. FilmRise
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-5b4b59af18ff5686916ef5eb3574de46.m3u8
+#EXTINF:0 group-title="00ES",435. FilmRise Series
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-4010582bb66b58a69151a4f552de0823.m3u8
+#EXTINF:0 group-title="00ES",436. Nuestro Cine (pluto TV) 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8
+#EXTINF:0 group-title="00ES",437. Más adrenalina (pluto TV) 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-687fea9a4fa995eff284a1c8.m3u8
+#EXTINF:0 group-title="00ES",438. Series Latinas (pluto TV)
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
+#EXTINF:0 group-title="00ES",439. Cine Sci-Fi (pluto TV) 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
+#EXTINF:0 group-title="00ES",440. Cine Series (pluto TV) 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8
+#EXTINF:0 group-title="00ES",441. Cine aventura (pluto TV) 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8
+#EXTINF:0 group-title="00ES",442. Cine Familia (pluto TV)
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
+#EXTINF:0 group-title="00ES",443. Cine Familia (pluto TV)
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
+#EXTINF:0 group-title="00ES",444. Cine comedia (pluto TV) 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
+#EXTINF:0 group-title="00ES",445. Cine Amor (pluto TV) 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
+#EXTINF:0 group-title="00ES",446. Cine Romántico (pluto TV) 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
+#EXTINF:0 group-title="00ES",447. Cine Drama (pluto TV) 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8
+#EXTINF:0 group-title="00ES",448. Cine premiere (pluto TV)
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
+#EXTINF:0 group-title="00ES",449. Cine adrenalina (pluto TV) 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
+#EXTINF:0 group-title="00ES",450. Cine acción (Pluto tv)
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
+#EXTINF:0 group-title="00ES",451. Cine Crimen (pluto TV)
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8
+#EXTINF:0 group-title="00ES",452. Cine Terror (pluto TV)
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
+#EXTINF:0 group-title="00ES",453. Cine Estelar (pluto TV)
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
+#EXTINF:0 group-title="00ES",454. Cine Clásico (pluto TV) 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8
+#EXTINF:0 group-title="00ES",455. Cine Suspenso (pluto TV) 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8
+#EXTINF:0 group-title="00ES",456. Cine de autor (pluto TV) 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8
+#EXTINF:0 group-title="00ES",457. Cine en español (pluto TV) 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8
+#EXTINF:0 group-title="00ES",458. rakuten tv cine español
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://spanish-cinema-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten...
+#EXTINF:0 group-title="00ES",459. rakuten tv acción
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://action-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.a...
+#EXTINF:0 group-title="00ES",460. rakuten tv romanticas
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://romance-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=185.250.39.131&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6105&ads.rtv_channel_name=romance-rakuten-tv_es&ads.rtv_content_id=6105&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=ea6e7ff2-a593-4970-b37f-1503e4daa642&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6105&publishing_platform_id=5&tenant_identifier=rtv
+#EXTINF:0 group-title="00ES",461. rakuten tv pelis top
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=185.214.97.75&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=5983&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=a97f6867-489d-4321-a242-b8321727c6b0&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5&tenant_identifier=rtv
+#EXTINF:0 group-title="00ES",462. rakuten tv sci-fi
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=185.214.97.75&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6740&ads.rtv_channel_name=sci-fi-rakuten-tv_es&ads.rtv_content_id=6740&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=b2937d45-2a8d-45d1-be6c-9e708683a47e&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6740&publishing_platform_id=5&tenant_identifier=rtv
+#EXTINF:0 group-title="00ES",463. rakuten tv thrillers
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=185.214.97.75&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6480&ads.rtv_channel_name=thriller-rakuten-tv_es&ads.rtv_content_id=6480&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=1a4f6ed5-78f7-4800-94df-d71942d76c1b&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6480&publishing_platform_id=5&tenant_identifier=rtv
+#EXTINF:0 group-title="00ES",464. runtime
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
+#EXTINF:0 group-title="00ES",465. runtime família
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
+#EXTINF:0 group-title="00ES",466. runtime cine y series
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
+#EXTINF:0 group-title="00ES",467. runtime acción
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
+#EXTINF:0 group-title="00ES",468. runtime comedia
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
+#EXTINF:0 group-title="00ES",469. runtime crimen
 #EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
+#EXTINF:0 group-title="00ES",470. runtime terror
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
+#EXTINF:0 group-title="00ES",471. runtime CinEspanto
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11786&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+#EXTINF:0 group-title="00ES",472. HBO
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://166.1.69.254:8000/play/a0gm/index.m3u8
+#EXTINF:0 group-title="00ES",473. HBO 2
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://166.1.69.254:8000/play/a0hz/index.m3u8
+#EXTINF:0 group-title="00ES",474. HBO +
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://166.1.69.254:8000/play/a0i0/index.m3u8
+#EXTINF:0 group-title="00ES",475. HBO family
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://166.1.69.254:8000/play/a0fr/61617388.m3u8
+#EXTINF:0 group-title="00ES",476. HBO signature
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://megatv5074.com:80/BP9VZL1/9WP6XV5/1279007
+#EXTINF:0 group-title="00ES",477. HBO mundi
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://megatv5074.com:80/BP9VZL1/9WP6XV5/1279010
+#EXTINF:0 group-title="00ES",478. HBO pop
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://166.1.69.254:8000/play/a0h2/index.m3u8
+#EXTINF:0 group-title="00ES",479. HBO xtreme 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://166.1.69.254:8000/play/a0i1/index.m3u8
+#EXTINF:0 group-title="00ES",480. Universal cinema
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://45.192.3.47:8000/play/a0a9/index.m3u8
+#EXTINF:0 group-title="00ES",481. Universal comedy 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://45.192.3.47:8000/play/a09x/index.m3u8
+#EXTINF:0 group-title="00ES",482. Universal crimen
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://45.192.3.47:8000/play/a09w/index.m3u8
+#EXTINF:0 group-title="00ES",483. Universal premiere
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://45.192.3.47:8000/play/a09u/index.m3u8
+#EXTINF:0 group-title="00ES",484. Universal reality 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://45.192.3.47:8000/play/a09v/index.m3u8
+#EXTINF:0 group-title="00ES",485. Clan TVE
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=6835a5171bcd3217190b928c&AV_CONTENT_LANGUAGE=sp&AV_CONTENT_GENRE=entertainment&AV_CONTENT_CAT=IAB9&AV_CONTENT_RATING=TP&AV_CLIENT_SECTION=RTVE_clan&content_channel_name=Clan&content_livestream=1&AV_CONTENT_PROVIDER=RTVE&ads.vidaa_ads_param=1190602996
+#EXTINF:0 group-title="00ES",486. Canal Las Tortugas Ninja (pluto TV)
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
+#EXTINF:0 group-title="00ES",487. el reino infantil
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://amg17724-amg17724c1-lg-latam-11388.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg17724-purodigitalandstudioslu-elreinoinfantilspa-lglatam/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0
+#EXTINF:0 group-title="00ES",488. 13 Kids
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:0 group-title="00ES",489. Canal Naruto (pluto TV) 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
+#EXTINF:0 group-title="00ES",490. Plim plim TV
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://45.70.168.162:646/play/a02a/index.m3u8
+#EXTINF:0 group-title="00ES",491. moji tv
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992452&ads.xumo_streamId=99992452&ads.channelId=99992452&ads.csid=lgchannels_es_odmediamexico_ssai&ads.channelName=lospitufos_es&ads.xumo_contentName=ODMediaMexico&ads.xumo_contentId=3194&ads.xumo_providerName=ODMediaMexico&ads.xumo_providerId=3194&ads.content_category=IAB6&ads.content_genre=kids&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=1&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:0 group-title="00ES",492. adult swim
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pk
+#EXTINF:0 group-title="00ES",493. anime visión
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/stvp-ES300029LP
+#EXTINF:0 group-title="00ES",494. anime visión classics
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/stvp-ES3000288I
+#EXTINF:0 group-title="00ES",495. discovery kids
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://181.78.12.119:16123/play/ch02/index.m3u8
+#EXTINF:0 group-title="00ES",496. pitufo tv
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=11855&avod=1&coppa=1&is_lat=1&dnt=1&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=toongoggles.com&app_name=Toon%20Goggles&custom_targeting=web&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=ToonGoggles&content_network=ToonGoggles&content_language=en&content_cat=IAB1-5%2CIAB1-7&partner_domain=toongoggles.com&content_dist_name=internal&device_make=&device_model=&device_os=web&device_language=en&preferred_language=EN&gdpr=0&custom_12=0&custom_15=en&custom_16=EN&custom_17=es&country=co&country_region=santander%20department&postal_code=680001&site_page=https%253A%252F%252Fwww.toongoggles.com%252Flinear%252Fpitufo-tv&sdid=3ef00abe-b8f0-6583-49ef-82961e8d32b9&preroll_duration=30&preroll=1&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web
+#EXTINF:0 group-title="00ES",497. disney
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000 
+http://181.78.0.107:8006/play/a07n/index.m3u8
+#EXTINF:0 group-title="00ES",498. disney jr
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://45.190.187.183:8080/play/a1kr
+#EXTINF:0 group-title="00ES",499. Nickelodeon
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://45.5.118.136:8888/play/a00p/index.m3u8
+#EXTINF:0 group-title="00ES",500. Nickelodeon jr
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://45.70.168.162:646//play/a015/index.m3u8
+#EXTINF:0 group-title="00ES",501. Nickelodeon en Español (pluto TV) 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+#EXTINF:0 group-title="00ES",502. canal infantil
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://181.78.12.119:16123/play/ch06/index.m3u8
+#EXTINF:0 group-title="00ES",503. cartoonito
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://45.5.118.136:8888/play/a0b9/index.m3u8
+#EXTINF:0 group-title="00ES",504. canal la abeja maya
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/stvp-ESBD3200002V5
+#EXTINF:0 group-title="00ES",505. canal caillou
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/stvp-ES4800002OZ
+#EXTINF:0 group-title="00ES",506. Canal Bob Esponja (pluto tv)
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
+#EXTINF:0 group-title="00ES",507. chinola tv
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+#EXTINF:0 group-title="00ES",508. cartoon network 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://45.171.64.30:8800/play/a014
+#EXTINF:0 group-title="00ES",509. Toon goggles
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=514&avod=1&coppa=1&is_lat=1&dnt=1&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=toongoggles.com&app_name=Toon%20Goggles&custom_targeting=web&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=ToonGoggles&content_network=ToonGoggles&content_language=en&content_cat=IAB1-5%2CIAB1-7&partner_domain=toongoggles.com&content_dist_name=internal&device_make=&device_model=&device_os=web&device_language=en&preferred_language=EN&gdpr=0&custom_12=0&custom_15=en&custom_16=EN&custom_17=es&country=co&country_region=santander%20department&postal_code=680001&site_page=https%253A%252F%252Fwww.toongoggles.com%252F&sdid=3ef00abe-b8f0-6583-49ef-82961e8d32b9&preroll_duration=30&preroll=1&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web
+#EXTINF:0 group-title="00ES",510. tooncast
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000 
+http://181.78.12.119:16123/play/ch203/index.m3u8
+#EXTINF:0 group-title="00ES",511. semillitas
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/10018.ts
+#EXTINF:0 group-title="00ES",512. Canal Pokémon (pluto TV) 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8
+#EXTINF:0 group-title="00ES",513. Canal Los Padrinos Mágicos (pluto TV) 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
+#EXTINF:0 group-title="00ES",514. Pluto TV Kids (pluto TV)
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
+#EXTINF:0 group-title="00ES",515. Canal Popeye (pluto TV)
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8
+#EXTINF:0 group-title="00ES",516. Canal Pocoyó
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/stvp-ESBC3900004ED
+#EXTINF:0 group-title="00ES",517. Canal Pingu
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/stvp-ES2100002BU
+#EXTINF:0 group-title="00ES",518. Canal Rabbids
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/stvp-ESBD2300003S5
+#EXTINF:0 group-title="00ES",519. Canal Avatar (pluto TV) 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
+#EXTINF:0 group-title="00ES",520. Ntn 24
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://181.78.71.4:9003/play/a04w/index.m3u8?hls
+#EXTINF:0 group-title="00ES",521. N+ Univision 24/7
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-5a28fbf15c135b51b3638e8bd02d6577.m3u8
+#EXTINF:0 group-title="00ES",522. RAV Real America's Voice en Español
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-02aa7b1a311bf3dde1883ea9b1fc9ee5.m3u8
+#EXTINF:0 group-title="00ES",523. Radio islámico (audio) (صوت)
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://radio.radioislamico.com/9300/stream
+#EXTINF:0 group-title="00ES",524. huda tv
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+#EXTINF:0 group-title="00ES",525. musulmanes radio (audio) (صوت)
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://redradioypc.com:8028/stream
+#EXTINF:0 group-title="00ES",526. Mta 8 (audio) (صوت)
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://dq1c55erlhlb2.cloudfront.net/out/v1/prod-mtai-live-shared/prod_mta8_america/prod_mta8_america-origin-v1/index-hls_audio_spa.m3u8?CMCD=cid%3D%2296082%22%2Ccom.mta.cdn%3D%22cloudfront%22%2Corg.svalabs-rid%3D%22b0fc62c8-f255-4096-bede-e06ff088d79c%22%2Cot%3D%22i%22%2Csf%3D%22h%22%2Csid%3D%22461f7b71-6758-40c1-8656-ac5f1317014b%22%2Cst%3D%22l%22
+#EXTINF:0 group-title="00ES",527. hispan tv
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
+#EXTINF:0 group-title="00ES",528. box gamers 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp_796/QR282U0FZF1Y9CGX85SL/hls3/now,-1m/m.m3u8?ads.channel_name=Box+Gamers&ads.content_cat=IAB17&ads.content_genre=Gaming%2CSports%2CLATAM%2CHispanic&ads.content_id=SKL102&ads.content_language=es&ads.content_title=box+gamers+-+maraton+free+fire+con+gabi&ads.ic=IAB1-7&ads.provider=Klasko&ads.rating=TV14&ads.app_name=Whale+TV%2B&ads.device_make=&ads.device_model=&ads.did=e1824eb6-ad40-4f70-8c92-844c67db3750&ads.gdpr=0&ads.gdpr_consent=&ads.h=&ads.w=&ads.url=whaletvplus.com&ads.us_privacy=1YNN&ads.lmt=&ads.livestream=1&ads.coppa=0
+#EXTINF:0 group-title="00ES",529. estrella games
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/1d55cb91-9acf-4617-9207-0ce792931cb4/playlist.m3u8
+#EXTINF:0 group-title="00ES",530. el conquistador
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=outdoors%2Creality&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusSpanish&ads.content_livestream=0&ads.csid=zeus_es_elconsquistado_ssai&ads.extra_eids=&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6975&ads.rakuten_streaming_id=e9b3c141-8011-44a1-9f85-8573802ce54b&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883130&ads.xumo_channel_id=88883130&ads.xumo_contentId=2054&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2054&ads.xumo_providerName=el-conquistador-spa-rakutentv&ads.xumo_streamId=88883130
+#EXTINF:0 group-title="00ES",531. red bull tv
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://8b35224b42fd4ae797ea4d8b205f8368.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-VIDAA/957/hls/master/playlist.m3u8?ads.ifa=IFA&ads.ifa_type=IFA_TYPE&ads.device_type=DEVICE_TYPE&ads.brand_name=BRAND_NAME&ads.device_country...
+#EXTINF:0 group-title="00ES",532. CDN Deportes 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://hls.tvabierta.net/hls/036.m3u8
+#EXTINF:0 group-title="00ES",533. colimdo tv 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:0 group-title="00ES",534. Surf Channel
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/stvp-ES3400002PY
+#EXTINF:0 group-title="00ES",535. Canal  Deportes (pluto TV) 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
+#EXTINF:0 group-title="00ES",536. teledeporte
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000 
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=6835a4ac56e24897ca0a5b8d&AV_CONTENT_LANGUAGE=sp&AV_CONTENT_GENRE=sport&AV_CONTENT_CAT=IAB17&AV_CONTENT_RATING=16&AV_CLIENT_SECTION=RTVE_tdp&content_channel_name=TDP&content_livestream=1&AV_CONTENT_PROVIDER=RTVE&ads.vidaa_ads_param=1190602996
+#EXTINF:0 group-title="00ES",537. FIFA+
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://2b77fda3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtZXNfRklGQVBsdXNTcGFuaXNoX0hMUw/playlist.m3u8?ads.wurl_channel=1780&ads.wurl_name=FIFAPlusSpanish&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=6915
+#EXTINF:0 group-title="00ES",538. FIFA+ 2
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:0 group-title="00ES",539. fuel tv
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaes-lges/playlist.m3u8
+#EXTINF:0 group-title="00ES",540. fuel tv 2
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvuses-lgmx/playlist.m3u8
+#EXTINF:0 group-title="00ES",541. world poker tour 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/stvp-ESBD2900001P9
+#EXTINF:0 group-title="00ES",542. motovision
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=757&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=tzFRBf5UEBHD_vbznsUx&custom_7=60da3a5c0d1cc1002c38370e
+#EXTINF:0 group-title="00ES",543. TV cuatro deportes
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://5ca3e84a76d30.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
+#EXTINF:0 group-title="00ES",544. Euro sport 1
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/537361
+#EXTINF:0 group-title="00ES",545. Euro sport 2
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PSEKSZ2L77GDTD/31848/index.m3u8
+#EXTINF:0 group-title="00ES",546. golf channel
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://181.119.177.253:8000/play/a0do/index.m3u8
+#EXTINF:0 group-title="00ES",547. px sports
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.136:8000/play/a02m
+#EXTINF:0 group-title="00ES",548. Ch_483
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://181.119.177.253:8000/play/a03c/index.m3u8
+#EXTINF:0 group-title="00ES",549. telemundo deportes ahora
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352&ads.caid=telemundodeportesahora_linear&ads.csid=xumo_[PLATFORM]_telemundodeportesahora_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=es&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=4281&ads.xumo_contentName=TelemundoDeportesAhora&ads.xumo_providerId=4281&ads.xumo_providerName=TelemundoDeportesAhora&ads.channelId=99951459&ads._fw_ifa_type=[IFA_TYPE]
+#EXTINF:0 group-title="00ES",550. TV azteca deportes nitro
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-04be54c79d1f55d0909e684f64f9fb57.m3u8
+#EXTINF:0 group-title="00ES",551. bein sports xtra ñ
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="00ES",552. TNT sports
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://45.173.231.22:8000/play/a020/index.m3u8
+#EXTINF:0 group-title="00ES",553. TNT sports premium
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://190.83.15.112:8000/play/a09e/index.m3u8
+#EXTINF:0 group-title="00ES",554. Win Sports
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://190.83.15.112:8000/play/a03q/index.m3u8
+#EXTINF:0 group-title="00ES",555. win sports +
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://186.96.97.166:48001/play/a0is/index.m3u8
+#EXTINF:0 group-title="00ES",556. ESPN 
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://186.33.26.18:8000/play/a0py/index.m3u8
+#EXTINF:0 group-title="00ES",557. ESPN 2
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://181.224.255.210:8001/play/a0oj/index.m3u8
+#EXTINF:0 group-title="00ES",558. ESPN 3
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://45.171.64.30:8800/play/a025
+#EXTINF:0 group-title="00ES",559. ESPN 4
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://tutv.fun/live/XochiltTovar/PXJMeN34Vm/591990.ts
+#EXTINF:0 group-title="00ES",560. ESPN 5
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://181.78.168.38:8000/play/a0e7
+#EXTINF:0 group-title="00ES",561. ESPN 6
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://181.78.71.230:8001/play/a01q?hls
+#EXTINF:0 group-title="00ES",562. ESPN 7
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://181.78.71.230:8001/play/a015?hls
+#EXTINF:0 group-title="00ES",563. ESPN deportrs
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://kytv.xyz:80/brendan1/brendan1/220408.ts
+#EXTINF:0 group-title="00ES",564. ESPN premium
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://200.123.40.1:8000/play/a05n/index.m3u8
+#EXTINF:0 group-title="00ES",565. Sky sports la liga
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+http://181.119.177.253:8000/play/a0dz/index.m3u8
+#EXTINF:0 group-title="00ES",566. Aym sports
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
+#EXTINF:0 group-title="00ES",567. Aym sports 3
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
