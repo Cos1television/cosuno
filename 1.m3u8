@@ -786,7 +786,7 @@ https://jmp2.uk/rok-ab6cd6569bf6557a8c5d9798cfce202b.m3u8
 #EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/rok-396f57d10b5d5ec98648f810dcbe1f11.m3u8
-#EXTINF:0 group-title="00ES",194. Villanos de Novela
+#EXTINF:0 group-title="00ES",194. Villanos de Novela (ViX)
 #EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/rok-7b5699f58b2b54be9da4d23fe354fb59.m3u8
@@ -874,7 +874,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13917&avod=1&coppa=0&td=6&
 #EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000 
 https://jmp2.uk/rok-5d1c16bba82b53e69bf979c2fdca4ca8.m3u8
-#EXTINF:0 group-title="00ES",216. 
+#EXTINF:0 group-title="00ES",216. Todo novelas
 #EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=67d18d7b0431f385ba055b38&AV_CONTENT_LANGUAGE=es&AV_CONTENT_GENRE=tv%20novelas&AV_CONTENT_CAT=IAB1-5&AV_CONTENT_RATING=PG&AV_CLIENT_SECTION=zylo_todonovelas&content_channel_name=todonovelas&content_livestream=1&AV_CONTENT_PROVIDER=Zylo&ads.vidaa_ads_param=1191723366
@@ -894,54 +894,57 @@ https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8examples/bipbop_1
 #EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="00ES",221. 
+#EXTINF:0 group-title="00ES",221. Tv5 monde+ Voyage
 #EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-68b74a235dc5413c905efd62/?X-Plex-Token=wUsAc7hqhua9wueC1bR9
-#EXTINF:0 group-title="0000",222. 
-#EXTGRP:0000
+#EXTINF:0 group-title="00ES",222. Tv5 monde+ chefs
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",223. 
-#EXTGRP:0000
+#EXTVLCOPT:http-user-agent=app/12.302 (Linux;Android 15) ExoPlayerLib/2.19.1
+https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
+#EXTINF:0 group-title="00ES",223. tastemade
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",224. 
-#EXTGRP:0000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
+#EXTINF:0 group-title="00ES",224. tastemade viajes
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",225. 
-#EXTGRP:0000
+https://amg27441-amg27441c2-rlaxx-us-10924.playouts.now.amagi.tv/playlist/amg27441-tastemadelatam-tastemadeviajes-rlaxxus/playlist.m3u8?tag_id=142778&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0508&content_producer_name=Amagi_Tastemade_TastemadeViajes&content_categories=IAB19-29%2CIAB20%2CIAB20-1&content_custom_1_param=Amagi&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&sid=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
+#EXTINF:0 group-title="00ES",225. HGTV
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",226. 
-#EXTGRP:0000
+http://181.224.255.210:8001/play/a0mp/index.m3u8
+#EXTINF:0 group-title="00ES",226. Andalucía cocina 
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",227. 
-#EXTGRP:0000
+https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+#EXTINF:0 group-title="00ES",227. travel xp
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",228. 
-#EXTGRP:0000
+https://travelxp-travelxp-5-es.lg.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="00ES",228. el gourmet
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",229. 
-#EXTGRP:0000
+http://186.33.26.18:8000/play/a0lj/index.m3u8
+#EXTINF:0 group-title="00ES",229. food network
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",230. 
-#EXTGRP:0000
+http://209.14.100.200:48000/play/a0dl/index.m3u8
+#EXTINF:0 group-title="00ES",230. viajar tv
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",231. 
-#EXTGRP:0000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp_796/087OGANVCF6AVWAEIQ5S/hls3/now,-1m/m.m3u8?ads.channel_name=Viajar+TV&ads.content_cat=IAB20&ads.content_genre=Lifestyle%2CTravel%2CLATAM%2CHispanic&ads.content_id=SCB101&ads.content_language=es&ads.content_title=via_air_viajo_con_vos_villa_traful&ads.ic=IAB1-7&ads.provider=Content+Box&ads.rating=TV14&ads.app_name=Whale+TV%2B&ads.device_make=&ads.device_model=&ads.did=eacaa6fb-eb33-4e79-b2d2-84a5d7621d77&ads.gdpr=0&ads.gdpr_consent=&ads.h=&ads.w=&ads.url=whaletvplus.com&ads.us_privacy=1YNN&ads.lmt=&ads.livestream=1&ads.coppa=0
+#EXTINF:0 group-title="00ES",231. buen viaje
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",232. 
-#EXTGRP:0000
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992259&ads.xumo_streamId=99992259&ads.channelId=99992259&ads.csid=lgchannels_mx_indigeniusbonviajespanish_ssai&ads.channelName=indigeniusbonviajespanish_mx&ads.xumo_contentName=IndigeniusBonViajeSpanish&ads.xumo_contentId=2459&ads.xumo_providerName=IndigeniusBonViajeSpanish&ads.xumo_providerId=2459&ads.content_category=IAB20&ads.content_genre=Travel%20%26%20Lifestyle&ads.content_language=es&ads.content_rating=tv-pg&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:0 group-title="00ES",232. sun channel
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.21 LibVLC/3.0.21
+http://45.167.1.136:8000/play/a02i
 #EXTINF:0 group-title="0000",233. 
 #EXTGRP:0000
 #EXTVLCOPT:network-caching=1000
