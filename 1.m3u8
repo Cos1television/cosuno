@@ -1001,214 +1001,216 @@ http://45.5.118.152:8000/play/a08w/index.m3u8
 #EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:0 group-title="0000",247. 
-#EXTGRP:0000
+#EXTINF:0 group-title="00ES",247. france 24 español
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",248. 
-#EXTGRP:0000
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:0 group-title="00ES",248. CNN español
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",249. 
-#EXTGRP:0000
+http://45.5.118.136:8888/play/a0br/index.m3u8
+#EXTINF:0 group-title="00ES",249. CNN noticias
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",250. 
-#EXTGRP:0000
+https://s9host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config12/playlist.m3u8?ads.cdnhost=s9host5.localnow.api.cms.amdvids.com&ads.playbackid=B116CD89-27DF-489D-B281-767172CC7985&ads.n1=rule_id&ads.v1=31E67C91-301F-4DA0-997C-55E852CBE4CB-1752176430&ads.n3=qp_content_id&ads.v3=B116CD89-27DF-489D-B281-767172CC7985&ads.n4=content_name&ads.v4=CNN%20Xpress&ads.n21=channel_brand_id&ads.v21=AMDB013572&ads.n22=content_custom_2_param&ads.v22=AMDB013572&ads.n23=us_privacy&ads.v23=1YNY&ads.n24=gpp&ads.v24=&ads.n25=h&ads.v25=1080&ads.n26=channel_name&ads.v26=CNN%20Xpress&ads.n27=dnt&ads.v27=&ads.n28=content_livestream&ads.v28=1&ads.n29=device_type&ads.v29=&ads.n30=gpp_sid&ads.v30=&ads.n31=content_provider&ads.v31=cnn-xpress&ads.n32=ip&ads.v32=86.48.9.131&ads.n33=url&ads.v33=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n34=app_store_url&ads.v34=&ads.n35=app_bundle&ads.v35=&ads.n36=pos&ads.v36=midroll&ads.n37=channel_title&ads.v37=CNN%20Xpress&ads.n38=content_custom_1_param&ads.v38=B116CD89-27DF-489D-B281-767172CC7985&ads.n39=did&ads.v39=&ads.n40=content_custom_3_param&ads.v40=channel&ads.n41=channel_language&ads.v41=en&ads.n42=ifa_type&ads.v42=&ads.n43=content_type&ads.v43=channel&ads.n44=device_model&ads.v44=&ads.n45=channel_company_id&ads.v45=AMDP500559&ads.n46=network_name&ads.v46=cnn-xpress&ads.n47=cust_devicename&ads.v47=desktop_web&ads.n48=app_name&ads.v48=&ads.n49=channel_id&ads.v49=B116CD89-27DF-489D-B281-767172CC7985&ads.n50=channel_corp&ads.v50=Warner%20Brothers%20Discovery&ads.n51=app_version&ads.v51=0.0.0&ads.n52=device_make&ads.v52=&ads.n53=channel_genre&ads.v53=En%20Espanol&ads.n54=channel_rating&ads.v54=TV-MA&ads.n55=w&ads.v55=1920&ads.n56=content_producer_name&ads.v56=Warner%20Brothers%20Discovery&ads.n57=channel_ext_id&ads.v57=&ads.n58=ua&ads.v58=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36
+#EXTINF:0 group-title="00ES",250. record news br
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",251. 
-#EXTGRP:0000
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:0 group-title="00ES",251. RCN noticias
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",252. 
-#EXTGRP:0000
+https://jmp2.uk/rok-a9aae4e62e6fd8e401033cd14ceeaaa2.m3u8
+#EXTINF:0 group-title="00ES",252. CDN
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",253. 
-#EXTGRP:0000
+http://38.131.62.125:8000/play/a027/index.m3u8?hls
+#EXTINF:0 group-title="00ES",253. Canal congreso
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",254. 
-#EXTGRP:0000
+http://181.118.153.15:8000/play/bh44/index.m3u8?hls
+#EXTINF:0 group-title="00ES",254. canal institucional
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",255. 
-#EXTGRP:0000
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:0 group-title="00ES",255. señal colombia
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",256. 
-#EXTGRP:0000
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:0 group-title="00ES",256. Royaworld
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",257. 
-#EXTGRP:0000
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/5ff630bc-fb08-11ee-a7cb-71f3705559c1/0/master.m3u8?country=es&vendor=lg
+#EXTINF:0 group-title="00ES",257. UCL
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",258. 
-#EXTGRP:0000
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+#EXTINF:0 group-title="00ES",258. telediario
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",259. 
-#EXTGRP:0000
+https://jmp2.uk/rok-ceb64d994c7756c2a8f09ace94c3e43f.m3u8
+#EXTINF:0 group-title="00ES",259. Blu Radio
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",260. 
-#EXTGRP:0000
+https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
+#EXTINF:0 group-title="00ES",260. globovisión
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",261. 
-#EXTGRP:0000
+https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
+#EXTINF:0 group-title="00ES",261. TV azteca noticias
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",262. 
-#EXTGRP:0000
+https://jmp2.uk/rok-46eb1feb60da2bc45bee66f313b564de.m3u8
+#EXTINF:0 group-title="00ES",262. adn 40
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",263. 
-#EXTGRP:0000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13741&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+#EXTINF:0 group-title="00ES",263. Alerta Bogotá (audio)
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",264. 
-#EXTGRP:0000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
+https://mdstrm.com/audio/632c9c1cbc02c60329991efa/icecast.audio
+#EXTINF:0 group-title="00ES",264. UCV
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",265. 
-#EXTGRP:0000
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="00ES",265. actualidad 360
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",266. 
-#EXTGRP:0000
+https://amg01821-amg01821c27-rakuten-gb-8652.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-rakutengb/playlist.m3u8?ads_amagi_channel_id=1031&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB12&ads_content_genre=news&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=185.250.39.125&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=6987&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=3050dcb5-efd7-47e6-b2cc-4e516e1736c9&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:0 group-title="00ES",266. el confidencial
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",267. 
-#EXTGRP:0000
+https://jmp2.uk/stvp-ESBC1400001L8
+#EXTINF:0 group-title="00ES",267. el país 
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",268. 
-#EXTGRP:0000
+https://jmp2.uk/stvp-ESBC39000033J
+#EXTINF:0 group-title="00ES",268. milenio televisión
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",269. 
-#EXTGRP:0000
+https://api-ott.multimedios.com/loggingmediaurlpassthrough/a.m3u8?avod=1&app_name=%7B%7BappName%7D%7D&app_bundle=%7B%7BappPackage%7D%7D&device_width=%7B%7BplayerWidth%7D%7D&device_height=%7B%7BplayerHeight%7D%7D&tld=%7B%7BAppDomain%7D%7D&content_cat=%7B%7BAppCat%7D%7D&app_version=%7B%7BAppVersion%7D%7D&app_store_url=%7B%7BAppStoreUrl%7D%7D&did=%7B%7BDID%7D%7D&dnt=%7B%7BDNT%7D%7D&coppa=%7B%7BCoppa%7D%7D&us_privacy=%7B%7BUsPrivacy%7D%7D&gdpr=%7B%7BGdpr%7D%7D&gdpr_consent=%7B%7BGdprConsent%7D%7D&cb=API_randomCB&device_type=tv&device_make=%7B%7BDeviceMake%7D%7D&device_model=%7B%7BDeviceModel%7D%7D&device_os=%7B%7BoperatingSystem%7D%7D&language=%7B%7Blanguage%7D%7D&partner=tcl_tv_plus&livestream=1&connection=wifi&version=12.5&id=150&platform=html5&slated_vod=0&streaming_format=hls&vid=a.m3u8
+#EXTINF:0 group-title="00ES",269. Ch_269
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",270. 
-#EXTGRP:0000
+https://tv.arkeo.cl:1936/raicesarabestv/raicesarabestv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="00ES",270. HCH Hable Como Habla
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",271. 
-#EXTGRP:0000
+https://live.streamhch.com/live/streams/hch1.m3u8
+#EXTINF:0 group-title="00ES",271. red+ tv
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",272. 
-#EXTGRP:0000
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+#EXTINF:0 group-title="00ES",272. canal 26
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",273. 
-#EXTGRP:0000
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:0 group-title="00ES",273. Canal once
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",274. 
-#EXTGRP:0000
+https://vivo.canaloncelive.tv/secureoncedos/oncedigital/chunklist.m3u8
+#EXTINF:0 group-title="00ES",274. campo abierto tv
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",275. 
-#EXTGRP:0000
+https://v2.tustreaming.cl/catvlive/index.m3u8
+#EXTINF:0 group-title="00ES",275. chacra tv
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",276. 
-#EXTGRP:0000
+https://5f700d5b2c46f.streamlock.net:443/chacratv/chacratv/playlist.m3u8
+#EXTINF:0 group-title="00ES",276. el mundo del campo
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",277. 
-#EXTGRP:0000
+https://movil.ejeserver.com/live/elmundodelcampo.m3u8
+#EXTINF:0 group-title="00ES",277. TV agro 
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",278. 
-#EXTGRP:0000
+http://181.118.153.15:8000/play/ta63/index.m3u8?hls
+#EXTINF:0 group-title="00ES",278. love the planet 
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",279. 
-#EXTGRP:0000
+https://jmp2.uk/stvp-ESBC4700002TD
+#EXTINF:0 group-title="00ES",279. naturaleza
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000 
+https://jmp2.uk/stvp-ES1600003FF
+#EXTINF:0 group-title="00ES",280. Animal planet 
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",280. 
-#EXTGRP:0000
+http://38.211.240.159:8000/play/a0ao/index.m3u8
+#EXTINF:0 group-title="00ES",281. love nature time 
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",281. 
-#EXTGRP:0000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lges/playlist.m3u8
+#EXTINF:0 group-title="00ES",282. bbc earth
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",282. 
-#EXTGRP:0000
+https://amg00793-amg00793c24-vidaa-gb-9957.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00793-bbcstudios-bbcearthspain-vidaagb/playlist.m3u8?ads.dnt=REPLACEME&ads.app_bundle=REPLACEME&ads.brand_name=REPLACEME&ads.ifa=REPLACEME&ads.ifa_type=REPLACEME&ads.vauth=REPLACEME&ads.device_type=REPLACEME&ads.device_country=REPLACEME&ads.device_language=REPLACEME&ads.device_osv=REPLACEME&ads.app_name=REPLACEME&ads.app_store_url=REPLACEME&ads.us_privacy=REPLACEME&ads.gdpr=REPLACEME&ads.gdpr_consent=REPLACEME&ads.w=REPLACEME&ads.h=REPLACEME&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=10128
+#EXTINF:0 group-title="00ES",283. naturaleza salvaje
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",283. 
-#EXTGRP:0000
+https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
+#EXTINF:0 group-title="00ES",284. xphere wild
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",284. 
-#EXTGRP:0000
+#EXTVLCOPT:http-referrer=xtrematv.com/?num=401
+https://stmv2.voxtvhd.com.br/xpherewild/xpherewild/playlist.m3u8
+#EXTINF:0 group-title="00ES",285. love wine
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",285. 
-#EXTGRP:0000
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_CONTENT_RATING=R&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=67cedbcabd3876463b06e33d&AV_CONTENT_LANGUAGE=sp&AV_CONTENT_GENERE=Entertainment&AV_CONTENT_CAT=IAB1&AV_CONTENT_RATING=TV-G&AV_CLIENT_SECTION=lovewine_lovetv&content_channel_name=Love%20Wine&content_livestream=1&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=7989
+#EXTINF:0 group-title="00ES",286. TV Brasil
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",286. 
-#EXTGRP:0000
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:0 group-title="00ES",287. history
+#EXTGRP:00ES
+#EXTVLCOPT:network-caching=1000 
+http://45.177.114.114/HISTORY/index.m3u8
+#EXTINF:0 group-title="00ES",288. history 2
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",287. 
-#EXTGRP:0000
+http://45.171.64.30:8800/play/a021
+#EXTINF:0 group-title="00ES",289. historia
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",288. 
-#EXTGRP:0000
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+#EXTINF:0 group-title="00ES",290. historia y vida
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",289. 
-#EXTGRP:0000
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_CONTENT_RATING=R&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=67cede90e833e0c0d606b95b&AV_CONTENT_LANGUAGE=sp&AV_CONTENT_GENERE=Entertainment&AV_CONTENT_CAT=IAB1&AV_CONTENT_RATING=TV-G&AV_CLIENT_SECTION=historiayvida_lovetv&content_channel_name=Historia%20y%20vida&content_livestream=1&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=8011
+#EXTINF:0 group-title="00ES",291. Billboard Español TV
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",290. 
-#EXTGRP:0000
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-6a3c2c8c14e447db7984cc3a/?X-Plex-Token=wUsAc7hqhua9wueC1bR9
+#EXTINF:0 group-title="00ES",292. Nosey Escándalos
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",291. 
-#EXTGRP:0000
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-6154a863e3e4d9577f96b31a/?X-Plex-Token=wUsAc7hqhua9wueC1bR9
+#EXTINF:0 group-title="00ES",293. discovery
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",292. 
-#EXTGRP:0000
+http://201.190.41.246:8000/play/a01s/index.m3u88?hls
+#EXTINF:0 group-title="00ES",294. discovery turbo
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",293. 
-#EXTGRP:0000
+http://201.190.41.246:8000/play/a048/index.m3u88?hls
+#EXTINF:0 group-title="00ES",295. Garage tv
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",294. 
-#EXTGRP:0000
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:0 group-title="00ES",296. tu discovery de warner tv
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",295. 
-#EXTGRP:0000
+https://s9host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config12/playlist.m3u8?ads.cdnhost=s9host5.localnow.api.cms.amdvids.com&ads.playbackid=2B411E4B-58F1-47FD-84A5-C8CDB543A9D8&ads.n1=rule_id&ads.v1=31E67C91-301F-4DA0-997C-55E852CBE4CB-1752176430&ads.n3=qp_content_id&ads.v3=2B411E4B-58F1-47FD-84A5-C8CDB543A9D8&ads.n4=content_name&ads.v4=TuDiscovery&ads.n21=h&ads.v21=1080&ads.n22=app_name&ads.v22=&ads.n23=ua&ads.v23=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n24=content_custom_3_param&ads.v24=channel&ads.n25=channel_genre&ads.v25=En%20Espanol&ads.n26=content_livestream&ads.v26=1&ads.n27=did&ads.v27=&ads.n28=content_type&ads.v28=channel&ads.n29=w&ads.v29=1920&ads.n30=url&ads.v30=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n31=channel_name&ads.v31=TuDiscovery&ads.n32=channel_ext_id&ads.v32=&ads.n33=gpp_sid&ads.v33=&ads.n34=pos&ads.v34=midroll&ads.n35=channel_company_id&ads.v35=AMDP500559&ads.n36=channel_brand_id&ads.v36=AMDB013574&ads.n37=dnt&ads.v37=&ads.n38=app_bundle&ads.v38=&ads.n39=app_version&ads.v39=0.0.0&ads.n40=channel_title&ads.v40=TuDiscovery&ads.n41=us_privacy&ads.v41=1YNY&ads.n42=device_make&ads.v42=&ads.n43=cust_devicename&ads.v43=desktop_web&ads.n44=channel_id&ads.v44=2B411E4B-58F1-47FD-84A5-C8CDB543A9D8&ads.n45=ifa_type&ads.v45=&ads.n46=channel_corp&ads.v46=Warner%20Brothers%20Discovery&ads.n47=channel_rating&ads.v47=TV-PG&ads.n48=content_producer_name&ads.v48=Warner%20Brothers%20Discovery&ads.n49=content_custom_2_param&ads.v49=AMDB013574&ads.n50=content_custom_1_param&ads.v50=2B411E4B-58F1-47FD-84A5-C8CDB543A9D8&ads.n51=gpp&ads.v51=&ads.n52=app_store_url&ads.v52=&ads.n53=device_model&ads.v53=&ads.n54=content_provider&ads.v54=tudiscovery-de-wbtv-tudiscovery&ads.n55=channel_language&ads.v55=en&ads.n56=network_name&ads.v56=tudiscovery-de-wbtv-tudiscovery&ads.n57=ip&ads.v57=86.48.9.131&ads.n58=device_type&ads.v58=
+#EXTINF:0 group-title="00ES",297. ID investigation discovery
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",296. 
-#EXTGRP:0000
+http://205.235.6.29:8000/play/a0yt/index.m3u8?hls
+#EXTINF:0 group-title="00ES",298. vidas extremas de warner tv
+#EXTGRP:00ES
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",297. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 group-title="0000",298. 
-#EXTGRP:0000
-#EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
+https://s10host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/playlist.m3u8?ads.cdnhost=s10host4.localnow.api.cms.amdvids.com&ads.playbackid=BAA7B0C1-76FD-4DDD-87EA-7034BD93028F&ads.n1=rule_id&ads.v1=31E67C91-301F-4DA0-997C-55E852CBE4CB-1752176430&ads.n3=qp_content_id&ads.v3=BAA7B0C1-76FD-4DDD-87EA-7034BD93028F&ads.n4=content_name&ads.v4=Vidas%20Extremas&ads.n21=app_name&ads.v21=&ads.n22=app_version&ads.v22=0.0.0&ads.n23=cust_devicename&ads.v23=desktop_web&ads.n24=url&ads.v24=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n25=channel_ext_id&ads.v25=&ads.n26=h&ads.v26=1080&ads.n27=ua&ads.v27=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n28=content_producer_name&ads.v28=Warner%20Brothers%20Discovery&ads.n29=content_livestream&ads.v29=1&ads.n30=channel_corp&ads.v30=Warner%20Brothers%20Discovery&ads.n31=app_bundle&ads.v31=&ads.n32=app_store_url&ads.v32=&ads.n33=channel_brand_id&ads.v33=AMDB013591&ads.n34=content_custom_1_param&ads.v34=BAA7B0C1-76FD-4DDD-87EA-7034BD93028F&ads.n35=us_privacy&ads.v35=1YNY&ads.n36=content_provider&ads.v36=vidas-extremas-de-wbtv&ads.n37=ip&ads.v37=86.48.9.131&ads.n38=device_model&ads.v38=&ads.n39=ifa_type&ads.v39=&ads.n40=content_custom_3_param&ads.v40=channel&ads.n41=device_make&ads.v41=&ads.n42=did&ads.v42=&ads.n43=channel_name&ads.v43=Vidas%20Extremas&ads.n44=channel_language&ads.v44=en&ads.n45=content_custom_2_param&ads.v45=AMDB013591&ads.n46=gpp&ads.v46=&ads.n47=device_type&ads.v47=&ads.n48=channel_genre&ads.v48=En%20Espanol&ads.n49=pos&ads.v49=midroll&ads.n50=dnt&ads.v50=&ads.n51=w&ads.v51=1920&ads.n52=channel_id&ads.v52=BAA7B0C1-76FD-4DDD-87EA-7034BD93028F&ads.n53=channel_title&ads.v53=Vidas%20Extremas&ads.n54=channel_rating&ads.v54=TV-PG&ads.n55=channel_company_id&ads.v55=AMDP500559&ads.n56=content_type&ads.v56=channel&ads.n57=gpp_sid&ads.v57=&ads.n58=network_name&ads.v58=vidas-extremas-de-wbtv
 #EXTINF:0 group-title="0000",299. 
 #EXTGRP:0000
 #EXTVLCOPT:network-caching=1000
