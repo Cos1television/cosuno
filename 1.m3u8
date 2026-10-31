@@ -707,7 +707,7 @@ https://jmp2.uk/rok-c5c6a54fbd0328b108453e2537b7eee1.m3u8
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 http://190.83.15.112:8000/play/a06i/index.m3u8?hls
-#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/93MnV_RkMTdliyhbqwWi0DalB5AVfxVP2YYUXF2FmZTRkNUht5l3RYml2vNZVQvBcmEJazDTvM2LzY2dQbzIHA" group-title="SEÑAL_ABIERTA",175. 
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/93MnV_RkMTdliyhbqwWi0DalB5AVfxVP2YYUXF2FmZTRkNUht5l3RYml2vNZVQvBcmEJazDTvM2LzY2dQbzIHA" group-title="SEÑAL_ABIERTA",175.  Kanal D 
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
@@ -880,207 +880,207 @@ http://181.79.86.130:8000/play/a00q/index.m3u8
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=699f1f16706a30082b0aa827&AV_CONTENT_LANGUAGE=es&AV_CONTENT_GENRE=Drama&AV_CONTENT_CAT=IAB1-7&AV_CONTENT_RATING=TV-14&AV_CLIENT_SECTION=Televisa%20S.%20de%20R.L.%20de%20C.V_Como%20Dice%20el%20Dicho&content_channel_name=Como%20Dice%20el%20Dicho&content_livestream=1&AV_CONTENT_PROVIDER=Televisa%20S.%20de%20R.L.%20de%20C.V&ads.vidaa_ads_param=1195788221&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=6465
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",218. Tv5 monde+ Voyage
+#EXTINF:0 tvg-logo="https://psi.tv5monde.com/media/static/default/lives/tv5monde-voyage.png" group-title="SEÑAL_ABIERTA",218. Tv5 monde+ Voyage
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-68b74a235dc5413c905efd62/?X-Plex-Token=wUsAc7hqhua9wueC1bR9
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",219. Tv5 monde+ chefs
+#EXTINF:0 tvg-logo="https://psi.tv5monde.com/media/static/default/lives/tv5monde-chef.png" group-title="SEÑAL_ABIERTA",219. Tv5 monde+ chefs
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=app/12.302 (Linux;Android 15) ExoPlayerLib/2.19.1
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",220. tastemade
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-a45e1a9f-76fd-45bf-b047-e8c685843ca1.jpg" group-title="SEÑAL_ABIERTA",220. tastemade
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",221. tastemade viajes
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-a45e1a9f-76fd-45bf-b047-e8c685843ca1.jpg" group-title="SEÑAL_ABIERTA",221. tastemade viajes
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://amg27441-amg27441c2-rlaxx-us-10924.playouts.now.amagi.tv/playlist/amg27441-tastemadelatam-tastemadeviajes-rlaxxus/playlist.m3u8?tag_id=142778&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0508&content_producer_name=Amagi_Tastemade_TastemadeViajes&content_categories=IAB19-29%2CIAB20%2CIAB20-1&content_custom_1_param=Amagi&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&sid=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",222. HGTV
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-94f67962-8132-4bf7-a4c1-790b99df94d5.jpg" group-title="SEÑAL_ABIERTA",222. HGTV
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 http://181.224.255.210:8001/play/a0mp/index.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",223. travel xp
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-fba901e2-44be-457d-adce-7f8549a0f4a8.jpg" group-title="SEÑAL_ABIERTA",223. travel xp
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://travelxp-travelxp-5-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",224. el gourmet
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-6273eb08-ca64-4773-8f4d-c1156366e721.jpg" group-title="SEÑAL_ABIERTA",224. el gourmet
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 http://186.33.26.18:8000/play/a0lj/index.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",225. food network
+#EXTINF:0 tvg-logo="https://mamasonthehill.com/pluto-images/bef37e9b-c629-4378-8118-029dba6d7e2e.jpg?w=960&h=960&format=auto&fit=cover" group-title="SEÑAL_ABIERTA",225. food network
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 http://209.14.100.200:48000/play/a0dl/index.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",226. viajar tv
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-52ff5305-dae9-4d1c-b96d-efef4a09b3f8.jpg" group-title="SEÑAL_ABIERTA",226. viajar tv
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp_796/087OGANVCF6AVWAEIQ5S/hls3/now,-1m/m.m3u8?ads.channel_name=Viajar+TV&ads.content_cat=IAB20&ads.content_genre=Lifestyle%2CTravel%2CLATAM%2CHispanic&ads.content_id=SCB101&ads.content_language=es&ads.content_title=via_air_viajo_con_vos_villa_traful&ads.ic=IAB1-7&ads.provider=Content+Box&ads.rating=TV14&ads.app_name=Whale+TV%2B&ads.device_make=&ads.device_model=&ads.did=eacaa6fb-eb33-4e79-b2d2-84a5d7621d77&ads.gdpr=0&ads.gdpr_consent=&ads.h=&ads.w=&ads.url=whaletvplus.com&ads.us_privacy=1YNN&ads.lmt=&ads.livestream=1&ads.coppa=0
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",227. buen viaje
+#EXTINF:0 tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/1ecf19580c53699576f57b5087b103a7_LOGO-BUENVIAJE_V-Color.png" group-title="SEÑAL_ABIERTA",227. buen viaje
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992259&ads.xumo_streamId=99992259&ads.channelId=99992259&ads.csid=lgchannels_mx_indigeniusbonviajespanish_ssai&ads.channelName=indigeniusbonviajespanish_mx&ads.xumo_contentName=IndigeniusBonViajeSpanish&ads.xumo_contentId=2459&ads.xumo_providerName=IndigeniusBonViajeSpanish&ads.xumo_providerId=2459&ads.content_category=IAB20&ads.content_genre=Travel%20%26%20Lifestyle&ads.content_language=es&ads.content_rating=tv-pg&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",228. sun channel
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-9f0ff8b3-08ea-468e-8fbf-9ce531702ca2.jpg" group-title="SEÑAL_ABIERTA",228. sun channel
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=VLC/3.0.21 LibVLC/3.0.21
 http://45.167.1.136:8000/play/a02i
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",229. perfil tv
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-377d5650-0890-470e-9a47-a879484aa0c9.jpg" group-title="SEÑAL_ABIERTA",229. perfil tv
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",230. comercio tv
+#EXTINF:0 tvg-logo="https://media.beehiiv.com/cdn-cgi/image/format=auto,fit=scale-down,onerror=redirect/uploads/asset/file/cbd729bc-d11e-4787-b03b-a6e04f096d2a/comercio-wordmark.jpeg?t=1787112089" group-title="SEÑAL_ABIERTA",230. comercio tv
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=1787194388500&network_id=16960&live=1&avod=1&hls_marker=1&ssai_enabled=1&gdpr=0&ifa_type=sessionid&site_page=https%3A%2F%2Fcomercio.tv%2F&site_name=ComercioTV&coppa=0&us_privacy=1---
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",231. negocios tv
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-ea13b1e1-c151-4b09-a6ff-fdd9838dbf81.jpg" group-title="SEÑAL_ABIERTA",231. negocios tv
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://negociostv-negociostv-rlaxx.amagi.tv/hls/amagi_hls_data_negociost-negociostv-rlaxxtv/CDN/playlist.m3u8?tag_id=104070&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0253&content_producer_name=AmagiConnect_NEGOCIOSTV_NEGOCIOSTV&content_categories=IAB12%2CIAB12-1%2CIAB13-3%2CIAB3&content_custom_1_param=Amagi&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&sid=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",232. pura noticia
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-55b3fc1d-8c91-44cf-b827-176c71167149.jpg" group-title="SEÑAL_ABIERTA",232. pura noticia
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",233. noticias telemundo ahora
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-dfb4b18c-bfb9-47ba-91c8-12b0b80d29cc.jpg" group-title="SEÑAL_ABIERTA",233. noticias telemundo ahora
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814626/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814626&ads.xumo_streamId=88814626&declaredCC1Language=en&ads.caid=TelemundoNoticiasAhora&ads.csid=tcl2_us_telemundonoticiasahora_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=News&ads._fw_content_category=IAB1-7&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=3944&ads.xumo_contentName=TelemundoNoticiasAhora&ads.xumo_providerId=3944&ads.xumo_providerName=TelemundoNoticiasAhora&ads.xumo_channelName=TelemundoNoticiasAhora&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",234. RT actualidad
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-111a84f8-6089-4a06-abff-2757fa7f7a5b.jpg" group-title="SEÑAL_ABIERTA",234. RT actualidad
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",235. newsmax
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-0c16931d-1760-407f-9b3e-11edebd7d013.jpg" group-title="SEÑAL_ABIERTA",235. newsmax
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000 
 https://d29h829bjuxghm.cloudfront.net/hls/index.m3u8?ads.xumo_channelId=99992174&ads.xumo_streamId=99992174&ads.channelId=99992174&ads.csid=lgchannels_mx_newsmax_ssai&ads.channelName=newsmax_es&ads.xumo_contentName=Newsmax&ads.xumo_contentId=141&ads.xumo_providerName=Newsmax&ads.xumo_providerId=141&ads.content_category=IAB1-7&ads.content_genre=news&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",236. euro news
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-8db053fc-386f-42fc-a3b2-f4078444563e.jpg" group-title="SEÑAL_ABIERTA",236. euro news
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/rok-8acb4f9b8a255216966db355daaa1749.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",237. TVE 24h
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-40accaad-f2d3-4a45-9b4a-63c93f0a1f56.jpg" group-title="SEÑAL_ABIERTA",237. TVE 24h
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",238. estrella noticias
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-2930486f-8efa-4067-b224-968ab5e4942c.jpg" group-title="SEÑAL_ABIERTA",238. estrella noticias
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://amg00567-estrellamedia-estrellanews-distrotv-ddste.amagi.tv/playlist/amg00567-estrellamedia-estrellanews-distrotv/playlist.m3u8?ads.dpname=distrotv&c_producer=EstrellaNews&dnt=0&app_bundle=undefined&app_name=DistroTV&app_store_url=undefined&did=c9c89678-faab-4c6f-baac-bc9516102803&app_do...
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",239. telesur
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/960px-TeleSUR-Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",239. telesur
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 http://45.5.118.152:8000/play/a08w/index.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",240. DW deutsche welle español
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/tF4vfRsdO-hq42jllRhDJgpDSC8wRrz20k6MnLtpsPsSnL9YcWUZoFntm33iM1HCRvs3uIZrf7D_9seJ80NzD4U" group-title="SEÑAL_ABIERTA",240. DW deutsche welle español
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",241. france 24 español
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQle79OtRystArl1k7DfnzCGuCdlTtjUF9vzfWr-TA_2Q&s=10" group-title="SEÑAL_ABIERTA",241. france 24 español
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",242. CNN español
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-4ef033aa-a883-41e1-bdbf-6d1d3b2711b0.jpg" group-title="SEÑAL_ABIERTA",242. CNN español
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 http://45.5.118.136:8888/play/a0br/index.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",243. CNN noticias
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-8b769bd0-188a-4d2f-a24a-4bc99612328a.jpg" group-title="SEÑAL_ABIERTA",243. CNN noticias
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://s9host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config12/playlist.m3u8?ads.cdnhost=s9host5.localnow.api.cms.amdvids.com&ads.playbackid=B116CD89-27DF-489D-B281-767172CC7985&ads.n1=rule_id&ads.v1=31E67C91-301F-4DA0-997C-55E852CBE4CB-1752176430&ads.n3=qp_content_id&ads.v3=B116CD89-27DF-489D-B281-767172CC7985&ads.n4=content_name&ads.v4=CNN%20Xpress&ads.n21=channel_brand_id&ads.v21=AMDB013572&ads.n22=content_custom_2_param&ads.v22=AMDB013572&ads.n23=us_privacy&ads.v23=1YNY&ads.n24=gpp&ads.v24=&ads.n25=h&ads.v25=1080&ads.n26=channel_name&ads.v26=CNN%20Xpress&ads.n27=dnt&ads.v27=&ads.n28=content_livestream&ads.v28=1&ads.n29=device_type&ads.v29=&ads.n30=gpp_sid&ads.v30=&ads.n31=content_provider&ads.v31=cnn-xpress&ads.n32=ip&ads.v32=86.48.9.131&ads.n33=url&ads.v33=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n34=app_store_url&ads.v34=&ads.n35=app_bundle&ads.v35=&ads.n36=pos&ads.v36=midroll&ads.n37=channel_title&ads.v37=CNN%20Xpress&ads.n38=content_custom_1_param&ads.v38=B116CD89-27DF-489D-B281-767172CC7985&ads.n39=did&ads.v39=&ads.n40=content_custom_3_param&ads.v40=channel&ads.n41=channel_language&ads.v41=en&ads.n42=ifa_type&ads.v42=&ads.n43=content_type&ads.v43=channel&ads.n44=device_model&ads.v44=&ads.n45=channel_company_id&ads.v45=AMDP500559&ads.n46=network_name&ads.v46=cnn-xpress&ads.n47=cust_devicename&ads.v47=desktop_web&ads.n48=app_name&ads.v48=&ads.n49=channel_id&ads.v49=B116CD89-27DF-489D-B281-767172CC7985&ads.n50=channel_corp&ads.v50=Warner%20Brothers%20Discovery&ads.n51=app_version&ads.v51=0.0.0&ads.n52=device_make&ads.v52=&ads.n53=channel_genre&ads.v53=En%20Espanol&ads.n54=channel_rating&ads.v54=TV-MA&ads.n55=w&ads.v55=1920&ads.n56=content_producer_name&ads.v56=Warner%20Brothers%20Discovery&ads.n57=channel_ext_id&ads.v57=&ads.n58=ua&ads.v58=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",244. RCN noticias
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCIHNRA5heirGMrqqrBQkhQBify2sSNdsHCqUphCMjkQ&s" group-title="SEÑAL_ABIERTA",244. RCN noticias
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/rok-a9aae4e62e6fd8e401033cd14ceeaaa2.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",245. Canal congreso
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-b000759c-413c-4530-aae1-2368245c0a92.jpg" group-title="SEÑAL_ABIERTA",245. Canal congreso
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 http://181.118.153.15:8000/play/bh44/index.m3u8?hls
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",246. canal institucional
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-b8521247-d424-401d-8bd4-3d42b30eda87.jpg" group-title="SEÑAL_ABIERTA",246. canal institucional
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",247. señal colombia
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-3e08d98a-ad99-40cc-b959-801864a9e463.jpg" group-title="SEÑAL_ABIERTA",247. señal colombia
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",248. UCL
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC_owTEjtTJt8-nsbryJv9yhdYpMP5oe0nOmYI05PBR6WcWa0Covkl5nPE&s=10" group-title="SEÑAL_ABIERTA",248. UCL
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",249. telediario
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-d1aca70c-b890-463f-920e-7eb5ec3ee63d.jpg" group-title="SEÑAL_ABIERTA",249. telediario
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/rok-ceb64d994c7756c2a8f09ace94c3e43f.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",250. Blu Radio
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/Z72i4gv9aWFiCAE1w6v8ND_oKplJPURNxcdoM2K8dTe0ezSqwx8YHHY2DU0Xur6Ke6ym-0viVQ=s900-c-k-c0x00ffffff-no-rj" group-title="SEÑAL_ABIERTA",250. Blu Radio
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",251. globovisión
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="SEÑAL_ABIERTA",251. globovisión
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",252. TV azteca noticias
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-858d3ed9-0cb1-4cbc-a0d5-08c509fefb44.jpg" group-title="SEÑAL_ABIERTA",252. TV azteca noticias
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/rok-46eb1feb60da2bc45bee66f313b564de.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",253. adn 40
+#EXTINF:0 tvg-logo="https://www.planeta.com/wp-content/uploads/2025/09/adnnoticiaslogo.jpg" group-title="SEÑAL_ABIERTA",253. adn 40
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13741&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",254. Alerta Bogotá (audio)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Alerta-Logo-2025.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="SEÑAL_ABIERTA",254. Alerta Bogotá (audio)
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
 https://mdstrm.com/audio/632c9c1cbc02c60329991efa/icecast.audio
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",255. actualidad 360
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-da9cde81-70c5-4469-9b3c-cf8c9359bae3.jpg" group-title="SEÑAL_ABIERTA",255. actualidad 360
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://amg01821-amg01821c27-rakuten-gb-8652.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-rakutengb/playlist.m3u8?ads_amagi_channel_id=1031&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB12&ads_content_genre=news&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=185.250.39.125&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=6987&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=3050dcb5-efd7-47e6-b2cc-4e516e1736c9&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",256. el confidencial
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-795225bc-c917-40bf-9c8b-bac85ac13667.jpg" group-title="SEÑAL_ABIERTA",256. el confidencial
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/stvp-ESBC1400001L8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",257. el país 
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-81fe7063-50a3-4aff-8e8c-fbaa63a8c83c.jpg" group-title="SEÑAL_ABIERTA",257. el país 
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/stvp-ESBC39000033J
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",258. milenio televisión
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-46eea343-c83c-4b99-a85d-87de1fee1d33.jpg" group-title="SEÑAL_ABIERTA",258. milenio televisión
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://api-ott.multimedios.com/loggingmediaurlpassthrough/a.m3u8?avod=1&app_name=%7B%7BappName%7D%7D&app_bundle=%7B%7BappPackage%7D%7D&device_width=%7B%7BplayerWidth%7D%7D&device_height=%7B%7BplayerHeight%7D%7D&tld=%7B%7BAppDomain%7D%7D&content_cat=%7B%7BAppCat%7D%7D&app_version=%7B%7BAppVersion%7D%7D&app_store_url=%7B%7BAppStoreUrl%7D%7D&did=%7B%7BDID%7D%7D&dnt=%7B%7BDNT%7D%7D&coppa=%7B%7BCoppa%7D%7D&us_privacy=%7B%7BUsPrivacy%7D%7D&gdpr=%7B%7BGdpr%7D%7D&gdpr_consent=%7B%7BGdprConsent%7D%7D&cb=API_randomCB&device_type=tv&device_make=%7B%7BDeviceMake%7D%7D&device_model=%7B%7BDeviceModel%7D%7D&device_os=%7B%7BoperatingSystem%7D%7D&language=%7B%7Blanguage%7D%7D&partner=tcl_tv_plus&livestream=1&connection=wifi&version=12.5&id=150&platform=html5&slated_vod=0&streaming_format=hls&vid=a.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",259. Ch_259
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-af4fcc27-4ce1-4bc8-96d5-450eb339e012.jpg" group-title="SEÑAL_ABIERTA",259. Ch_259
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://tv.arkeo.cl:1936/raicesarabestv/raicesarabestv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",260. HCH Hable Como Habla
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-36f283dc-c17f-4486-8ad3-10f71e04fe6d.jpg" group-title="SEÑAL_ABIERTA",260. HCH Hable Como Habla
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://live.streamhch.com/live/streams/hch1.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",261. red+ tv
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Red%2B_2018_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="SEÑAL_ABIERTA",261. red+ tv
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",262. canal 26
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/iwy544rQZtfKaTCTqIFUSov8vJk3usPK8bqGzR-JdQwSBEBJiGIacr3v7L3t8w9Xq7Ny6E5z=s900-c-k-c0x00ffffff-no-rj" group-title="SEÑAL_ABIERTA",262. canal 26
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",263. Canal once
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-94a92a9c-9df2-4fc7-8b2b-21f399a28c21.jpg" group-title="SEÑAL_ABIERTA",263. Canal once
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://vivo.canaloncelive.tv/secureoncedos/oncedigital/chunklist.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",264. campo abierto tv
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-bfd5a6ab-5261-4078-9142-eb0194ce20cc.jpg" group-title="SEÑAL_ABIERTA",264. campo abierto tv
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://v2.tustreaming.cl/catvlive/index.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",265. el mundo del campo
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEnS6_MNaS_evB02CA9iywiXcTBv_UQoWoELLrQTbk-lJIzpmPEX8kMO5g&s=10" group-title="SEÑAL_ABIERTA",265. el mundo del campo
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://movil.ejeserver.com/live/elmundodelcampo.m3u8
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",266. TV agro 
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/1280px-TV_Agro_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",266. TV agro 
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 http://181.118.153.15:8000/play/ta63/index.m3u8?hls
-#EXTINF:0 tvg-logo="🟢" group-title="SEÑAL_ABIERTA",267. love the planet 
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-82fb2c08-1dca-4f22-b0ce-5fb4ebc5aef5.jpg" group-title="SEÑAL_ABIERTA",267. love the planet 
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/stvp-ESBC4700002TD
