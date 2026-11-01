@@ -1499,223 +1499,223 @@ https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",371. filmelier tv
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-dd1867f3-7f45-4793-8905-7e4e1d3610a9.jpg" group-title="SEÑAL_ABIERTA",371. filmelier tv
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://amg00740-sofa-amg00740c10-lg-mx-8915.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-filmelierspanish-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",372. filmelier tv vida real
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-7c686402-0b3f-4c17-b717-92a228039cfb.jpg" group-title="SEÑAL_ABIERTA",372. filmelier tv vida real
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://amg00740-sofa-amg00740c20-lg-mx-8976.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-filmeliertvvidarealspanish-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",373. filmelier tv esperanza
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-5c764bd5-217a-464f-8531-1a640a6e614f.jpg" group-title="SEÑAL_ABIERTA",373. filmelier tv esperanza
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://amg00740-sofa-amg00740c14-lg-mx-8914.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-filmeliertvesperanza-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",374. filmelier tv pasión
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-d94896b9-4236-4fb5-8b85-7aada7a3e6f7.jpg" group-title="SEÑAL_ABIERTA",374. filmelier tv pasión
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://amg00740-sofa-amg00740c19-lg-mx-8924.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-filmeliertvpasion-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",375. FilmRise
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/-oJE4nLx4E5y0PhLB5DJWvCPdYkD5ZWRdSWivAnU5Ok4FCOochAcTvr4Ebwev2zMyFP91mC42Qets01rgZwGYg" group-title="SEÑAL_ABIERTA",375. FilmRise
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/rok-5b4b59af18ff5686916ef5eb3574de46.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",376. FilmRise Series
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-9749d772-83f6-4c0f-9da1-b30f8024c7ed.jpg" group-title="SEÑAL_ABIERTA",376. FilmRise Series
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/rok-4010582bb66b58a69151a4f552de0823.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",377. Nuestro Cine (pluto TV) 
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1280px-Pluto_TV_logo_2024.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",377. Nuestro Cine (pluto TV) 
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",378. Más adrenalina (pluto TV) 
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1280px-Pluto_TV_logo_2024.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",378. Más adrenalina (pluto TV) 
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-687fea9a4fa995eff284a1c8.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",379. Series Latinas (pluto TV)
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1280px-Pluto_TV_logo_2024.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",379. Series Latinas (pluto TV)
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",380. Cine Sci-Fi (pluto TV) 
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1280px-Pluto_TV_logo_2024.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",380. Cine Sci-Fi (pluto TV) 
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",381. Cine Series (pluto TV) 
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1280px-Pluto_TV_logo_2024.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",381. Cine Series (pluto TV) 
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",382. Cine aventura (pluto TV) 
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1280px-Pluto_TV_logo_2024.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",382. Cine aventura (pluto TV) 
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",383. Cine Familia (pluto TV)
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1280px-Pluto_TV_logo_2024.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",383. Cine Familia (pluto TV)
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",384. Cine Familia (pluto TV)
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1280px-Pluto_TV_logo_2024.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",384. Cine Familia (pluto TV)
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",385. Cine comedia (pluto TV) 
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1280px-Pluto_TV_logo_2024.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",385. Cine comedia (pluto TV) 
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",386. Cine Amor (pluto TV) 
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1280px-Pluto_TV_logo_2024.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",386. Cine Amor (pluto TV) 
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",387. Cine Romántico (pluto TV) 
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1280px-Pluto_TV_logo_2024.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",387. Cine Romántico (pluto TV) 
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",388. Cine Drama (pluto TV) 
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1280px-Pluto_TV_logo_2024.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",388. Cine Drama (pluto TV) 
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",389. Cine premiere (pluto TV)
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1280px-Pluto_TV_logo_2024.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",389. Cine premiere (pluto TV)
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",390. Cine adrenalina (pluto TV) 
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1280px-Pluto_TV_logo_2024.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",390. Cine adrenalina (pluto TV) 
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",391. Cine acción (Pluto tv)
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1280px-Pluto_TV_logo_2024.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",391. Cine acción (Pluto tv)
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",392. Cine Crimen (pluto TV)
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1280px-Pluto_TV_logo_2024.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",392. Cine Crimen (pluto TV)
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",393. Cine Terror (pluto TV)
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1280px-Pluto_TV_logo_2024.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",393. Cine Terror (pluto TV)
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",394. Cine Estelar (pluto TV)
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1280px-Pluto_TV_logo_2024.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",394. Cine Estelar (pluto TV)
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",395. Cine Clásico (pluto TV) 
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1280px-Pluto_TV_logo_2024.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",395. Cine Clásico (pluto TV) 
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",396. Cine Suspenso (pluto TV) 
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1280px-Pluto_TV_logo_2024.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",396. Cine Suspenso (pluto TV) 
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",397. Cine de autor (pluto TV) 
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1280px-Pluto_TV_logo_2024.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",397. Cine de autor (pluto TV) 
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",398. Cine en español (pluto TV) 
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1280px-Pluto_TV_logo_2024.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",398. Cine en español (pluto TV) 
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",399. rakuten tv cine español
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-14ca7998-968f-41e7-86dd-96fc22136b01.jpg" group-title="SEÑAL_ABIERTA",399. rakuten tv cine español
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://spanish-cinema-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten...
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",400. rakuten tv acción
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-14ca7998-968f-41e7-86dd-96fc22136b01.jpg" group-title="SEÑAL_ABIERTA",400. rakuten tv acción
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://action-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.a...
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",401. rakuten tv romanticas
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-14ca7998-968f-41e7-86dd-96fc22136b01.jpg" group-title="SEÑAL_ABIERTA",401. rakuten tv romanticas
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://romance-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=185.250.39.131&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6105&ads.rtv_channel_name=romance-rakuten-tv_es&ads.rtv_content_id=6105&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=ea6e7ff2-a593-4970-b37f-1503e4daa642&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6105&publishing_platform_id=5&tenant_identifier=rtv
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",402. rakuten tv pelis top
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-14ca7998-968f-41e7-86dd-96fc22136b01.jpg" group-title="SEÑAL_ABIERTA",402. rakuten tv pelis top
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=185.214.97.75&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=5983&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=a97f6867-489d-4321-a242-b8321727c6b0&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5&tenant_identifier=rtv
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",403. rakuten tv sci-fi
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-14ca7998-968f-41e7-86dd-96fc22136b01.jpg" group-title="SEÑAL_ABIERTA",403. rakuten tv sci-fi
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=185.214.97.75&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6740&ads.rtv_channel_name=sci-fi-rakuten-tv_es&ads.rtv_content_id=6740&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=b2937d45-2a8d-45d1-be6c-9e708683a47e&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6740&publishing_platform_id=5&tenant_identifier=rtv
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",404. rakuten tv thrillers
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-14ca7998-968f-41e7-86dd-96fc22136b01.jpg" group-title="SEÑAL_ABIERTA",404. rakuten tv thrillers
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=185.214.97.75&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6480&ads.rtv_channel_name=thriller-rakuten-tv_es&ads.rtv_content_id=6480&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=1a4f6ed5-78f7-4800-94df-d71942d76c1b&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6480&publishing_platform_id=5&tenant_identifier=rtv
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",405. runtime
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-da584fb5-07f4-4edc-a6aa-1661a598d612.jpg" group-title="SEÑAL_ABIERTA",405. runtime
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",406. runtime família
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-da584fb5-07f4-4edc-a6aa-1661a598d612.jpg" group-title="SEÑAL_ABIERTA",406. runtime família
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",407. runtime cine y series
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-da584fb5-07f4-4edc-a6aa-1661a598d612.jpg" group-title="SEÑAL_ABIERTA",407. runtime cine y series
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",408. runtime acción
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-da584fb5-07f4-4edc-a6aa-1661a598d612.jpg" group-title="SEÑAL_ABIERTA",408. runtime acción
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",409. runtime comedia
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-da584fb5-07f4-4edc-a6aa-1661a598d612.jpg" group-title="SEÑAL_ABIERTA",409. runtime comedia
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",410. runtime crimen
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-da584fb5-07f4-4edc-a6aa-1661a598d612.jpg" group-title="SEÑAL_ABIERTA",410. runtime crimen
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",411. runtime terror
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-da584fb5-07f4-4edc-a6aa-1661a598d612.jpg" group-title="SEÑAL_ABIERTA",411. runtime terror
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",412. runtime CinEspanto
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-da584fb5-07f4-4edc-a6aa-1661a598d612.jpg" group-title="SEÑAL_ABIERTA",412. runtime CinEspanto
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11786&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",413. HBO
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-43d1fd55-c8c4-4d88-b2a7-72463b5ef16a.jpg" group-title="SEÑAL_ABIERTA",413. HBO
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 http://166.1.69.254:8000/play/a0gm/index.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",414. HBO 2
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-51425ae1-b700-4efc-8c74-321352200cb3.jpg" group-title="SEÑAL_ABIERTA",414. HBO 2
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 http://166.1.69.254:8000/play/a0hz/index.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",415. HBO family
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-92d33070-3546-49f3-b959-af2519b8e618.jpg" group-title="SEÑAL_ABIERTA",415. HBO family
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 http://166.1.69.254:8000/play/a0fr/61617388.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",416. Universal cinema
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="SEÑAL_ABIERTA",416. Universal cinema
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 http://45.192.3.47:8000/play/a0a9/index.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",417. Universal premiere
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="SEÑAL_ABIERTA",417. Universal premiere
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 http://45.192.3.47:8000/play/a09u/index.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",418. Ntn 24
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-47bfbe5f-4f8d-4dba-8b97-21e99b36491b.jpg" group-title="SEÑAL_ABIERTA",418. Ntn 24
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 http://181.78.71.4:9003/play/a04w/index.m3u8?hls
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",419. N+ Univision 24/7
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-3b5248a5-3b29-4bb1-9182-5e82faa47aa4.jpg" group-title="SEÑAL_ABIERTA",419. N+ Univision 24/7
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/rok-5a28fbf15c135b51b3638e8bd02d6577.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",420. RAV Real America's Voice en Español
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/cSJiN-anbA32gvxm23T_JgvMKxOqZm0d_-LlueRYQnlj276MafFLHOo6Cj5OUxnCpj7jlOrSqSA=s900-c-k-c0x00ffffff-no-rj" group-title="SEÑAL_ABIERTA",420. RAV Real America's Voice en Español
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/rok-02aa7b1a311bf3dde1883ea9b1fc9ee5.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",421. Radio islámico (audio) (صوت)
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-e29baaf0-a7be-43ad-868f-b19a97aacf8c.jpg" group-title="SEÑAL_ABIERTA",421. Radio islámico (audio) (صوت)
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://radio.radioislamico.com/9300/stream
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",422. huda tv
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-0dda785f-8a4e-4963-9533-69ba250f94c6.jpg" group-title="SEÑAL_ABIERTA",422. huda tv
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",423. musulmanes radio (audio) (صوت)
+#EXTINF:0 tvg-logo="https://mmradio.es/wp-content/uploads/2022/02/Logo-MMRadio.png" group-title="SEÑAL_ABIERTA",423. musulmanes radio (audio) (صوت)
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://redradioypc.com:8028/stream
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",424. Mta 8 (audio) (صوت)
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-9d012343-05b7-41ca-ae8c-e20ef3b5e671.jpg" group-title="SEÑAL_ABIERTA",424. Mta 8 (audio) (صوت)
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://dq1c55erlhlb2.cloudfront.net/out/v1/prod-mtai-live-shared/prod_mta8_america/prod_mta8_america-origin-v1/index-hls_audio_spa.m3u8?CMCD=cid%3D%2296082%22%2Ccom.mta.cdn%3D%22cloudfront%22%2Corg.svalabs-rid%3D%22b0fc62c8-f255-4096-bede-e06ff088d79c%22%2Cot%3D%22i%22%2Csf%3D%22h%22%2Csid%3D%22461f7b71-6758-40c1-8656-ac5f1317014b%22%2Cst%3D%22l%22
-#EXTINF:0 tvg-logo="12345" group-title="SEÑAL_ABIERTA",425. hispan tv
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/3840px-HispanTv_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",425. hispan tv
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
