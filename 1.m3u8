@@ -474,7 +474,7 @@ https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-af4fcc27-4ce1-4bc8-96d5-450eb339e012.jpg" group-title="SEÑAL_ABIERTA",119. Ch_122
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-af4fcc27-4ce1-4bc8-96d5-450eb339e012.jpg" group-title="SEÑAL_ABIERTA",119. Ch_119
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://sistemastr.tropicalmoonmedia.com:443/live/219197C7B6902B1A4D33D19600E9BE7A/5.m3u8?PlaylistM3UCL
@@ -490,7 +490,7 @@ https://tv.arkeo.cl:19360/8068/8068.m3u8?PlaylistM3UCL
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 http://181.118.153.15:8000/play/mb00/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-af4fcc27-4ce1-4bc8-96d5-450eb339e012.jpg" group-title="SEÑAL_ABIERTA",123. Ch_126
+#EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-10-31-af4fcc27-4ce1-4bc8-96d5-450eb339e012.jpg" group-title="SEÑAL_ABIERTA",123. Ch_123
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://sistemastr.tropicalmoonmedia.com:443/live/219197C7B6902B1A4D33D19600E9BE7A/4.m3u8?PlaylistM3UCL
