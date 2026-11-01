@@ -1303,7 +1303,7 @@ https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Golden_Blanco_2020.png/revision/latest?cb=20220131141053&path-prefix=es" group-title="SEÑAL_ABIERTA",321. Golden
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
-http://199.188.103.176:8000/play/a0bf/index.m3u8
+http://playstreaming.net/live/Pedro2407pere/PwjjkHGYft/46142.ts
 #EXTINF:0 tvg-logo="https://cdn.phototourl.com/member/2026-11-01-a605d86b-9953-427b-9188-7409d468a7a8.jpg" group-title="SEÑAL_ABIERTA",322. Golden edge
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
