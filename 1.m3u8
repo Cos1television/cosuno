@@ -521,7 +521,7 @@ https://amg01131-tracetv-amg01131c4-rlaxx-us-6583.playouts.now.amagi.tv/playlist
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3_au2UMNCi9VsjjZrWZQKMZ-GNvAQjITo3j5rq3VZS53AIW42qnQUGif8&s=10" group-title="SEÑAL_ABIERTA",130. Music top
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kIlYLIKHxmz4mVNwOD-zBpoWW96Li3if1dbY2cxPkXBpw=s900-c-k-c0x00ffffff-no-rj" group-title="SEÑAL_ABIERTA",131. sol música
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
