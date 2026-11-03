@@ -632,18 +632,19 @@ https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=VLC/3.0.21 LibVLC/3.0.21
 https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8?ads.vf=pZi5TZqLjCe
-#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/Xz5xtIvHR4niAMvf0nOb0n8j6QId6spnbmJfOqKPcvuMcmpohLG1aKiBDTqounciHsgfSysPgGM=s176-c-k-c0x00ffffff-no-rj-mo" group-title="SEÑAL_ABIERTA",157. Telefamilia
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/hKUsZoRvppCCsgJzAusXiff4sZ9AsHTftkWz4k6FMKrfWSXPNwfxt7UiiP5Gq0kZl86BGSpNImvWMJQcLdyf" group-title="SEÑAL_ABIERTA",157. angel tv
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
-https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8
 #EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/gu7XkZQ2mz0wUqVEySI5/image.jpg" group-title="SEÑAL_ABIERTA",158. CCI
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://livestream.mediacci.com/ccitv/index.m3u8
-#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/hKUsZoRvppCCsgJzAusXiff4sZ9AsHTftkWz4k6FMKrfWSXPNwfxt7UiiP5Gq0kZl86BGSpNImvWMJQcLdyf" group-title="SEÑAL_ABIERTA",159. angel tv
+#EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/03/apVFhVzwo64LJTj1ITik/image.jpg" group-title="SEÑAL_ABIERTA",159. Telepetroleo
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
-https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://teveo.cu/
+https://edge.teveo.net/live/AeABXC36-Q-_fjqb5d0ekiUvUN02GGdKqfh4l9YohxBr3KQw1Q776r7jrNfH3wTa7wSbU9JwZa1EALCdrKI5LKdE1bFI35O9Mpa1cMAkDTE7NRlQ8g/playlist.m3u8
 #EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/IWhjZaiGw8VeGk4rDF1J/image.jpg" group-title="SEÑAL_ABIERTA",160. ESNE El Sembrador Nueva Evangelización
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
@@ -1419,7 +1420,7 @@ http://45.167.1.136:8000/play/a04k
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 http://45.167.1.136:8000/play/a05f
-#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1280px-TCM_Latam_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",351. 
+#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1280px-TCM_Latam_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",351. TCM
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 http://190.123.76.22:8002/play/a03k/index.m3u8
@@ -1455,18 +1456,18 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16514&avod=1&coppa=0&td=6&
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16563&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:0 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d56177ee-a131-41d3-a46e-91ca04755952/FreeTVFamilia_cover_1920x1080_-_Ralph_Campillo.jpg" group-title="SEÑAL_ABIERTA",360. free tv familia 
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/1QOPQklnqJF41aYnk5c_ROkwUVYeTx8bgr8-czB0LtBz1jmx8BvFoeG6k1OtbHWkM9LPUbbV8w=s900-c-k-c0x00ffffff-no-rj" group-title="SEÑAL_ABIERTA",360. free tv asia
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16561&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/3wdSeUm0SMVOqlAuk5FmxWTAdkaEmI51sgKp_4JqW4G35jJf3K4zl9U-ikL7fYEeSNUHp8x3hg=s900-c-k-c0x00ffffff-no-rj" group-title="SEÑAL_ABIERTA",361. free tv drama
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16562&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
-#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/1QOPQklnqJF41aYnk5c_ROkwUVYeTx8bgr8-czB0LtBz1jmx8BvFoeG6k1OtbHWkM9LPUbbV8w=s900-c-k-c0x00ffffff-no-rj" group-title="SEÑAL_ABIERTA",362. free tv asia
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/cRWK0YQFOd0/hqdefault.jpg?v=6ab46524" group-title="SEÑAL_ABIERTA",362. Faro Vision
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
-https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8
+https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="SEÑAL_ABIERTA",363. sony
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
@@ -1615,26 +1616,26 @@ https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://spanish-cinema-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten...
-#EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/73OhwFelXwKNTQ5vSqoN/image.jpg" group-title="SEÑAL_ABIERTA",400. rakuten tv acción
+#EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/73OhwFelXwKNTQ5vSqoN/image.jpg" group-title="SEÑAL_ABIERTA",400. rakuten tv sci-fi
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
-https://action-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.a...
+https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=185.214.97.75&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6740&ads.rtv_channel_name=sci-fi-rakuten-tv_es&ads.rtv_content_id=6740&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=b2937d45-2a8d-45d1-be6c-9e708683a47e&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6740&publishing_platform_id=5&tenant_identifier=rtv
 #EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/73OhwFelXwKNTQ5vSqoN/image.jpg" group-title="SEÑAL_ABIERTA",401. rakuten tv romanticas
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://romance-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=185.250.39.131&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6105&ads.rtv_channel_name=romance-rakuten-tv_es&ads.rtv_content_id=6105&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=ea6e7ff2-a593-4970-b37f-1503e4daa642&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6105&publishing_platform_id=5&tenant_identifier=rtv
-#EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/73OhwFelXwKNTQ5vSqoN/image.jpg" group-title="SEÑAL_ABIERTA",402. rakuten tv pelis top
-#EXTGRP:SEÑAL_ABIERTA
-#EXTVLCOPT:network-caching=1000
-https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=185.214.97.75&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=5983&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=a97f6867-489d-4321-a242-b8321727c6b0&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5&tenant_identifier=rtv
-#EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/73OhwFelXwKNTQ5vSqoN/image.jpg" group-title="SEÑAL_ABIERTA",403. rakuten tv sci-fi
-#EXTGRP:SEÑAL_ABIERTA
-#EXTVLCOPT:network-caching=1000
-https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=185.214.97.75&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6740&ads.rtv_channel_name=sci-fi-rakuten-tv_es&ads.rtv_content_id=6740&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=b2937d45-2a8d-45d1-be6c-9e708683a47e&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6740&publishing_platform_id=5&tenant_identifier=rtv
-#EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/73OhwFelXwKNTQ5vSqoN/image.jpg" group-title="SEÑAL_ABIERTA",404. rakuten tv thrillers
+#EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/73OhwFelXwKNTQ5vSqoN/image.jpg" group-title="SEÑAL_ABIERTA",402. rakuten tv thrillers
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=185.214.97.75&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6480&ads.rtv_channel_name=thriller-rakuten-tv_es&ads.rtv_content_id=6480&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=1a4f6ed5-78f7-4800-94df-d71942d76c1b&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6480&publishing_platform_id=5&tenant_identifier=rtv
+#EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/03/19Q5SostfPnQW1ST8wCz/image.jpg" group-title="SEÑAL_ABIERTA",403. Telecinco Trelew
+#EXTGRP:SEÑAL_ABIERTA
+#EXTVLCOPT:network-caching=1000
+https://stmvideo1.livecastv.com/tele5trelew/tele5trelew/playlist.m3u8?hls_ctx=925zlu81
+#EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/03/LL9vLlgYB4QZaLlVf7gI/image.jpg" group-title="SEÑAL_ABIERTA",404. Adrenalina Pura TV
+#EXTGRP:SEÑAL_ABIERTA
+#EXTVLCOPT:network-caching=1000
+https://amg00740-sofa-amg00740c11-lg-mx-8923.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-freezonespanish-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 #EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/CqRwEJnyUldHl5CeFZhf/image.jpg" group-title="SEÑAL_ABIERTA",405. runtime
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
@@ -1718,7 +1719,8 @@ https://dq1c55erlhlb2.cloudfront.net/out/v1/prod-mtai-live-shared/prod_mta8_amer
 #EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/3840px-HispanTv_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SEÑAL_ABIERTA",425. hispan tv
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
-https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
+#EXTVLCOPT:http-referrer=https://odysee.com
+https://cloud.odysee.live/content/df0a443c1e8e53babc41fede14548c9b5fd1a6d2/master.m3u8
 #EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/9DKqqWOaI2wyqoysSKTY/image.jpg" group-title="SEÑAL_ABIERTA",426. Clan TVE
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
@@ -1919,10 +1921,10 @@ https://jmp2.uk/stvp-ESBD2900001P9
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=757&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=tzFRBf5UEBHD_vbznsUx&custom_7=60da3a5c0d1cc1002c38370e
-#EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/O7agjsQ5reBGaN4jJ2UB/image.jpg" group-title="SEÑAL_ABIERTA",476. TV cuatro deportes
+#EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/09seoMJQ2yPacoII5F8P/image.png" group-title="SEÑAL_ABIERTA",476. Ch_476
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
-https://5ca3e84a76d30.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8?wowzatokenendtime=1793647526&wowzatokenhash=KlXW_agPvSHIvkxBS6JDRKEMyiR-LNMZW3dDP_YwiNE=
+https://d62ninziq0nps.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5s16lxlwse2ip/c9d573ad-13cf-44a7-bd2d-8138c88adbde/0.m3u8
 #EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/nR7CdETsxJkYoXrlqtLS/image.jpg" group-title="SEÑAL_ABIERTA",477. Euro sport 1
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
