@@ -1772,7 +1772,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=11855
 #EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/bvARPDAX7oNsHBsh0sEA/image.jpg" group-title="SEÑAL_ABIERTA",438. disney
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000 
-http://181.78.0.107:8006/play/a07n/index.m3u8
+https://regionales.saohgdassregions.com/playlist/28/index.m3u8?token=2b6a7d5d589afb1de129d021e54872f62fe0cd97-3328c119accc10b56a278171e57faa46-1793918557-1793896957
 #EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/S7cfj5O9Lu7bIuvbjnHs/image.jpg" group-title="SEÑAL_ABIERTA",439. disney jr
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
