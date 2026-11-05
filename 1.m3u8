@@ -421,10 +421,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16564&avod=1&coppa=0&td=6&
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://tvivu.com/live/tvh22r8vjv22/46nrtr4vee283xgwn7mu3fhb3egp/48708.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1520063208391942146/fIOiM2V4_400x400.jpg" group-title="SEÑAL_ABIERTA",106. concert channel
+#EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/05/1BfmzxEAtNitEHVqxIme/image.jpg" group-title="SEÑAL_ABIERTA",106. Mi música reggaeton
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
-http://45.5.117.3:4000/play/a060/index.m3u8
+http://45.172.218.130:8000/play/a0wc/index.m3u8
 #EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/ccU6w3O0OCQjOojE1RHU/image.jpg" group-title="SEÑAL_ABIERTA",107. La kalle
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
@@ -640,11 +640,11 @@ https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_a
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://livestream.mediacci.com/ccitv/index.m3u8
-#EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/03/apVFhVzwo64LJTj1ITik/image.jpg" group-title="SEÑAL_ABIERTA",159. Telepetroleo
+#EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/03/apVFhVzwo64LJTj1ITik/image.jpg" group-title="SEÑAL_ABIERTA",159. Telesantiago
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://teveo.cu/
-https://edge.teveo.net/live/AeABXC36-Q-_fjqb5d0ekiUvUN02GGdKqfh4l9YohxBr3KQw1Q776r7jrNfH3wTa7wSbU9JwZa1EALCdrKI5LKdE1bFI35O9Mpa1cMAkDTE7NRlQ8g/playlist.m3u8
+https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8
 #EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/IWhjZaiGw8VeGk4rDF1J/image.jpg" group-title="SEÑAL_ABIERTA",160. ESNE El Sembrador Nueva Evangelización
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
