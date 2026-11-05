@@ -39,10 +39,11 @@ http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog
 #EXTGRP:SIN_SEÑAL
 #EXTVLCOPT:network-caching=1000
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/88eDsgONsPzwlnbWCekc/image.png" group-title="SIN_SEÑAL",011. 
-#EXTGRP:SIN_SEÑAL
+#EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/05/v1KLtfOhUbPdkQbSgsZl/image.jpg" group-title="SEÑAL_ABIERTA",011. Enlace televisión 
+#EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
+#EXTVLCOPT:http-referrer=https://teveo.net/
+https://edge.teveo.net/live/AeABFpg_foAGpR07BVUFNpawvuZw_lO3DurH3EfoDd3SubfEosldI9YdpRVjCGxCsSVGrqChWf5NQd1qAevYYyRGPujF3Tbegn53IyPIN6-Q91-2KQ/playlist.m3u8
 #EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/88eDsgONsPzwlnbWCekc/image.png" group-title="SIN_SEÑAL",012. 
 #EXTGRP:SIN_SEÑAL
 #EXTVLCOPT:network-caching=1000
@@ -51,10 +52,11 @@ http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog
 #EXTGRP:SIN_SEÑAL
 #EXTVLCOPT:network-caching=1000
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/88eDsgONsPzwlnbWCekc/image.png" group-title="SIN_SEÑAL",014. 
-#EXTGRP:SIN_SEÑAL
+#EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/05/vUz7FS57etUMaLxZpFOd/image.jpg" group-title="SEÑAL_ABIERTA",014. Telepetroleo 
+#EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
+#EXTVLCOPT:http-referrer=https://teveo.net/
+https://edge.teveo.net/live/AeABvv3QKlz_Blub_NwERnhKMaM_fSAbPWa2EFFKYCHdKyLVXkD9ExnK9NO6K4Fsdmvwdf-uqRuz7efzNX5U0VHW2s3MnbY85WEuiZ09M9QUpozv9w/playlist.m3u8
 #EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/88eDsgONsPzwlnbWCekc/image.png" group-title="SIN_SEÑAL",015. 
 #EXTGRP:SIN_SEÑAL
 #EXTVLCOPT:network-caching=1000
@@ -75,10 +77,10 @@ http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog
 #EXTGRP:SIN_SEÑAL
 #EXTVLCOPT:network-caching=1000
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/88eDsgONsPzwlnbWCekc/image.png" group-title="SIN_SEÑAL",020. 
-#EXTGRP:SIN_SEÑAL
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/Av3iAsonC-MQMNVNdrahXWuPbiolKW_skAEvJb8OjTwVVTKOeN00FMlrZ52qMOQMdAXGPCF9Ze7WSXuYvQxRlw" group-title="SEÑAL_ABIERTA",020. Suram televisión
+#EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
+https://origin-us.streaminghd.cl/suramtv/index.m3u8
 #EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/88eDsgONsPzwlnbWCekc/image.png" group-title="SIN_SEÑAL",021. 
 #EXTGRP:SIN_SEÑAL
 #EXTVLCOPT:network-caching=1000
