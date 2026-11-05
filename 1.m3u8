@@ -1069,10 +1069,10 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 https://vivo.canaloncelive.tv/secureoncedos/oncedigital/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/IQBmcrrCUWXnicq5LY3a/image.jpg" group-title="SEÑAL_ABIERTA",264. campo abierto tv
+#EXTINF:0 tvg-logo="https://unamiradaalcampo.com/wp-content/uploads/2021/10/cropped-LOGO-CANAL-UMC-BLANCO-6-226x122.png" group-title="SEÑAL_ABIERTA",264. UMC TV
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
-https://v2.tustreaming.cl/catvlive/index.m3u8
+https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEnS6_MNaS_evB02CA9iywiXcTBv_UQoWoELLrQTbk-lJIzpmPEX8kMO5g&s=10" group-title="SEÑAL_ABIERTA",265. el mundo del campo
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
