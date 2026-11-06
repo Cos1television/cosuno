@@ -766,7 +766,6 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=VLC/3.0.25 LibVLC/3.0.25
-#EXTVLCOPT:http-referrer=http://190.83.15.112:8000/play/a008/index.m3u8?hlsprog_index.m3u8
 http://190.83.15.112:8000/play/a008/index.m3u8?hlsprog_index.m3u8
 #EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/lv510WQdpDj1I4zjHfs1/image.jpg" group-title="SEÑAL_ABIERTA",173. caracol tv mix
 #EXTGRP:SEÑAL_ABIERTA
@@ -824,7 +823,6 @@ http://190.60.45.197:2222/play/a03c/index.m3u8
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=VLC/3.0.25 LibVLC/3.0.25
-#EXTVLCOPT:http-referrer=http://181.78.14.26:4000/play/a02t/index.m3u8
 http://181.78.14.26:4000/play/a02t/index.m3u8
 #EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/jeTUnWttKHieoCmkO2Os/image.jpg" group-title="SEÑAL_ABIERTA",184. RCN más
 #EXTGRP:SEÑAL_ABIERTA
@@ -1485,7 +1483,7 @@ https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/NKN8usqtQbTO_GNLIgyHfU1MYfBnxkirUKXkpJER1ALWrp8HoeSKJt1MwdU-pshOCwvTsAwYAA=s900-c-k-c0x00ffffff-no-rj" group-title="SEÑAL_ABIERTA",314. cine latino
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=http://181.78.49.113:9999/play/a06p/index.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.25 LibVLC/3.0.25
 http://mallorca.plus/live/3LinHLgnD2025tvViP/a18a55eb81d7aaf8/46104.ts
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/aMlFRAtDEuE/maxresdefault.jpg" group-title="SEÑAL_ABIERTA",315. cindie tv
 #EXTGRP:SEÑAL_ABIERTA
