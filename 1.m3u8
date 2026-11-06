@@ -1610,11 +1610,11 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=67d18bab41e3379ce208b478&AV_CONTENT_LANGUAGE=es&AV_CONTENT_GENRE=female%20drama&AV_CONTENT_CAT=IAB1-3&AV_CONTENT_RATING=PG-13&AV_CLIENT_SECTION=zylo_todopasion&content_channel_name=todopasion&content_livestream=1&AV_CONTENT_PROVIDER=Zylo&ads.vidaa_ads_param=1191723366
-#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/cH4kYblOErtfBb83ogYYRJQuh6LZmYSfLlsP2jdnkBt8MBIYPvIWNKbPDKPrDQxkE19DWGle1mM=s900-c-k-c0x00ffffff-no-rjg" group-title="SEÑAL_ABIERTA",340. life time
+#EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/06/WEsGaHHqATIdGj5qelBS/image.jpg" group-title="SEÑAL_ABIERTA",340. life time
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=VLC/3.0.25 LibVLC/3.0.25
-#EXTVLCOPT:http-referrer=http://181.78.8.199:8000/
+#EXTVLCOPT:http-referrer=
 http://181.78.8.199:8000/play/a0cr/index.m3u8
 #EXTINF:0 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmsdprb6sqz8bdil61k1zcy8bv2whim3g1os.png" group-title="SEÑAL_ABIERTA",341. my time movies network
 #EXTGRP:SEÑAL_ABIERTA
