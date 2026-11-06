@@ -1437,8 +1437,9 @@ https://canaletaplus.com:3922/hybrid/play.m3u8
 #EXTINF:0 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3327-800x450-FFFFFF.jpg" group-title="SEÑAL_ABIERTA",305. r&e tv
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=VLC/3.0.25 LibVLC/3.0.25
 #EXTVLCOPT:http-referrer=
-https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8
+https://tv2.bitstreaming.net:8443/hls/r-e-tv.m3u8
 #EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/vtf5qeG2VdJCCcbEsGgN/image.png" group-title="SEÑAL_ABIERTA",306. Cos1 televisión (canal local de cierre)
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
