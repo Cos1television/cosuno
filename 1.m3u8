@@ -765,6 +765,7 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/nN1qZ5K9W6rr-Oz3JDC-zscRUfR3w4EmbgiPa6f10CJW493aO5FfVYqa-HQrMXlMNHKMZHFzvw=s900-c-k-c0x00ffffff-no-rj" group-title="SEÑAL_ABIERTA",172. Caracol tv
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=VLC/3.0.25 LibVLC/3.0.25
 #EXTVLCOPT:http-referrer=http://190.83.15.112:8000/play/a008/index.m3u8?hlsprog_index.m3u8
 http://190.83.15.112:8000/play/a008/index.m3u8?hlsprog_index.m3u8
 #EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/lv510WQdpDj1I4zjHfs1/image.jpg" group-title="SEÑAL_ABIERTA",173. caracol tv mix
@@ -822,6 +823,7 @@ http://190.60.45.197:2222/play/a03c/index.m3u8
 #EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/ywwBrbeoMdmZ0n1a3HYy/image.jpg" group-title="SEÑAL_ABIERTA",183. RCN
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=VLC/3.0.25 LibVLC/3.0.25
 #EXTVLCOPT:http-referrer=http://181.78.14.26:4000/play/a02t/index.m3u8
 http://181.78.14.26:4000/play/a02t/index.m3u8
 #EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/jeTUnWttKHieoCmkO2Os/image.jpg" group-title="SEÑAL_ABIERTA",184. RCN más
@@ -1484,7 +1486,7 @@ https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg0
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=http://181.78.49.113:9999/play/a06p/index.m3u8
-http://181.78.49.113:9999/play/a06p/index.m3u8
+http://mallorca.plus/live/3LinHLgnD2025tvViP/a18a55eb81d7aaf8/46104.ts
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/aMlFRAtDEuE/maxresdefault.jpg" group-title="SEÑAL_ABIERTA",315. cindie tv
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
@@ -1534,7 +1536,7 @@ https://live-manifest.production-public.tubi.io/live/3900e8be-5992-4e76-9d58-9f8
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=http://181.78.49.113:9999/play/a03z/index.m3u8?hls
-http://181.78.49.113:9999/play/a03z/index.m3u8?hls
+http://45.5.59.237:8000/play/a02i/index.m3u8
 #EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/tFKexEzJ5nL7qIoj8MZY/image.jpg" group-title="SEÑAL_ABIERTA",325. Boreal televisión
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
@@ -1610,11 +1612,12 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=67d18bab41e3379ce208b478&AV_CONTENT_LANGUAGE=es&AV_CONTENT_GENRE=female%20drama&AV_CONTENT_CAT=IAB1-3&AV_CONTENT_RATING=PG-13&AV_CLIENT_SECTION=zylo_todopasion&content_channel_name=todopasion&content_livestream=1&AV_CONTENT_PROVIDER=Zylo&ads.vidaa_ads_param=1191723366
-#EXTINF:0 tvg-logo="https://sales.upentertainment.com/wp-content/uploads/2021/09/cine-romantico-red-750x500-1.jpg" group-title="SEÑAL_ABIERTA",340. Cine romántico
+#EXTINF:0 tvg-logo="https://sales.upentertainment.com/wp-content/uploads/2021/09/cine-romantico-red-750x500-1.jpg" group-title="SEÑAL_ABIERTA",340. life time
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=
-https://jmp2.uk/rok-79eb3a43680e5a9f9689fee074502a3b.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.25 LibVLC/3.0.25
+#EXTVLCOPT:http-referrer=http://181.78.8.199:8000/
+http://181.78.8.199:8000/play/a0cr/index.m3u8
 #EXTINF:0 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmsdprb6sqz8bdil61k1zcy8bv2whim3g1os.png" group-title="SEÑAL_ABIERTA",341. my time movies network
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
@@ -2104,7 +2107,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=11855
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=
-https://regionales.saohgdassregions.com/playlist/28/index.m3u8?token=2b6a7d5d589afb1de129d021e54872f62fe0cd97-3328c119accc10b56a278171e57faa46-1793918557-1793896957
+https://45.5.59.237:8000/play/a0b3/index.m3u8
 #EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/S7cfj5O9Lu7bIuvbjnHs/image.jpg" group-title="SEÑAL_ABIERTA",439. disney jr
 #EXTGRP:SEÑAL_ABIERTA
 #EXTVLCOPT:network-caching=1000
