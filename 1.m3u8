@@ -1747,7 +1747,6 @@ http://playstreaming.net/live/Pedro2407pere/PwjjkHGYft/46142.ts
 #EXTGRP:SEÑAL ABIERTA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-#KODIPROP:inputstream.adaptive.license_key=
 #EXTVLCOPT:http-referrer=
 https://regionales.saohgdassregions.com/playlist/69/index.m3u8?token=0471bbae0c29ef937a6b0936dc0b35f5a3c1eb49-72af69ff065612ff44dc990d548bffb9-1794178235-1794156635
 #EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/4HY3BYA1r01Tk5lgFZGN/image.jpg" group-title="SEÑAL ABIERTA",323. cine estrella tv
