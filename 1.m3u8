@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/88eDsgONsPzwlnbWCekc/image.png" group-title="SIN Señal",001. 
+#EXTINF:0 tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/88eDsgONsPzwlnbWCekc/image.png" group-title="SIN SEÑAL",001. 
 #EXTGRP:SIN SEÑAL
 #EXTVLCOPT:network-caching=1000
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
