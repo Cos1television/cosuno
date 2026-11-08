@@ -3159,18 +3159,18 @@ https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
 #EXTVLCOPT:http-referrer=
 http://playstreaming.net/live/Pedro2407pere/PwjjkHGYft/46142.ts
-#EXTINF:0 tvg-id="televisiongratishd.org/golden-edge-en-vivo.php" tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/KpPbGroLUaulhu3lBlks/image.jpg" group-title="SEÑAL ABIERTA",322. Golden edge
+#EXTINF:0 tvg-id="televisiongratishd.org" tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/KpPbGroLUaulhu3lBlks/image.jpg" group-title="SEÑAL ABIERTA",322. Golden edge
 #EXTGRP:SEÑAL ABIERTA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://regionales.saohgdassregions.com/playlist/69/index.m3u8?token=0471bbae0c29ef937a6b0936dc0b35f5a3c1eb49-72af69ff065612ff44dc990d548bffb9-1794178235-1794156635
+#KODIPROP:inputstream.adaptive.license_key=
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
 #EXTVLCOPT:http-referrer=
-https://regionales.saohgdassregions.com/playlist/69/index.m3u8?token=0471bbae0c29ef937a6b0936dc0b35f5a3c1eb49-72af69ff065612ff44dc990d548bffb9-1794178235-1794156635
+https://regionales.saohgdassregions.com/playlist/69/tracks-v1a1/mono.m3u8?token=c36c7e9f91dbba66811c109fb61e8cb08fd792b7-a8692da2e47d7de264656a8ca7fba928-1794202086-1794180486
 #EXTINF:0 tvg-id="" tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/4HY3BYA1r01Tk5lgFZGN/image.jpg" group-title="SEÑAL ABIERTA",323. cine estrella tv
 #EXTGRP:SEÑAL ABIERTA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
