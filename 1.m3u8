@@ -3163,7 +3163,7 @@ http://playstreaming.net/live/Pedro2407pere/PwjjkHGYft/46142.ts
 #EXTGRP:SEÑAL ABIERTA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTVLCOPT:network-caching=1000
