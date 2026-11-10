@@ -140,6 +140,7 @@ http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -721,6 +722,7 @@ http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -736,6 +738,7 @@ https://movil.ejeserver.com/live/masmusica.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -751,6 +754,7 @@ https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -766,6 +770,7 @@ https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -781,6 +786,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16564&avod=1&coppa=0&td=6&
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -796,6 +802,7 @@ https://tvivu.com/live/tvh22r8vjv22/46nrtr4vee283xgwn7mu3fhb3egp/48708.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -817,6 +824,7 @@ http://45.172.218.130:8000/play/a0wc/index.m3u8
 #EXTVLCOPT:preferred-resolution=480
 EXTVLCOPT:adaptive-max-bandwidth=1000000
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F35a1d7e4-caa3-477a-b813-90d23a756a16%2Fxitesiemprelatino_logo_light_-_Arlette_FiranRDX.png" group-title="SEÑAL ABIERTA",108. xite siempre latino
@@ -826,6 +834,7 @@ https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -841,6 +850,7 @@ https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -856,6 +866,7 @@ https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/rewind-3600.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -871,6 +882,7 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -891,6 +903,7 @@ http://186.33.40.97:8789/play/94?hls
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -906,6 +919,7 @@ http://playstreaming.net/live/DanielaMorales/Daniela1812M/86482.ts
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -921,6 +935,7 @@ https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=naci
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -936,6 +951,7 @@ https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/1
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -951,6 +967,7 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -966,6 +983,7 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -981,6 +999,7 @@ https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -996,6 +1015,7 @@ https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3U
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1011,6 +1031,7 @@ https://sistemastr.tropicalmoonmedia.com:443/live/219197C7B6902B1A4D33D19600E9BE
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1026,6 +1047,7 @@ https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/video.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1041,6 +1063,7 @@ https://tv.arkeo.cl:19360/8068/8068.m3u8?PlaylistM3UCL
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1056,6 +1079,7 @@ https://panel2.videocontentstreaming.com/live/e45b9cccb0abcc06d3d90e8daae27ca7.m
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1071,6 +1095,7 @@ https://sistemastr.tropicalmoonmedia.com:443/live/219197C7B6902B1A4D33D19600E9BE
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1086,6 +1111,7 @@ https://vdochile.com:3115/hybrid/play.m3u8?PlaylistM3UCL
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1101,6 +1127,7 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1116,6 +1143,7 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1131,6 +1159,7 @@ https://sistemastr.tropicalmoonmedia.com/live/DF40E37A6FA6319C00C09C1F0F6DD9D7/7
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1146,6 +1175,7 @@ https://amg01131-tracetv-amg01131c3-rlaxx-us-6462.playouts.now.amagi.tv/playlist
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1161,6 +1191,7 @@ https://amg01131-tracetv-amg01131c4-rlaxx-us-6583.playouts.now.amagi.tv/playlist
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1176,6 +1207,7 @@ https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1191,6 +1223,7 @@ https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1206,6 +1239,7 @@ http://38.191.81.2:30002/play/a021/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1221,6 +1255,7 @@ https://sistemastr.tropicalmoonmedia.com/live/DF40E37A6FA6319C00C09C1F0F6DD9D7/1
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1242,6 +1277,7 @@ https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 #EXTVLCOPT:preferred-resolution=480
 EXTVLCOPT:adaptive-max-bandwidth=1000000
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 https://s1.tvdatta.com:3972/live/88stereolive.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz1_zP7glo_gNtOsVmFtl2-kJVaQDkxxacUpa-YlOG5A&s=10" group-title="SEÑAL ABIERTA",136. bta tv
@@ -1251,6 +1287,7 @@ https://s1.tvdatta.com:3972/live/88stereolive.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1272,6 +1309,7 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 #EXTVLCOPT:preferred-resolution=480
 EXTVLCOPT:adaptive-max-bandwidth=1000000
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 https://sistemastr.tropicalmoonmedia.com/live/53179A136A04903B3483D9CF8680DA9B/15.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmcvPETK6c7MKgYud7HEIPOm8dZgjT3HD5n2LoAdF_bS7OvrWiG9LfJDU&s=10" group-title="SEÑAL ABIERTA",138. Salsa gorda televisión
@@ -1281,6 +1319,7 @@ https://sistemastr.tropicalmoonmedia.com/live/53179A136A04903B3483D9CF8680DA9B/1
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1302,6 +1341,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
 #EXTVLCOPT:preferred-resolution=480
 EXTVLCOPT:adaptive-max-bandwidth=1000000
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992416&ads.xumo_streamId=99992416&ads.channelId=99992416&ads.ad_tag_id=15727&ads.csid=lgchannels_mx_stingraylatinpop_ssai&ads.channelName=stingraylatinpop_mx&ads.xumo_contentName=StingrayExitosdelMomento&ads.xumo_contentId=3196&ads.xumo_providerName=StingrayExitosdelMomento&ads.xumo_providerId=3196&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 #EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRqDCs-kkTOZytzPffupM-r1sP_6QQLpMAqtJz-jkZRAzXs0pwSVeki-I&s=10" group-title="SEÑAL ABIERTA",140. sentimiento vallenato
@@ -1311,6 +1351,7 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999241
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1326,6 +1367,7 @@ https://hvtraficonew.ddns.net/pastocnc4/cnc4/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1341,6 +1383,7 @@ https://livecdnusa.enlace.plus/ejtv/master.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1356,6 +1399,7 @@ https://canal.mediaserver.com.co/live/oracionconson.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1371,6 +1415,7 @@ https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1386,6 +1431,7 @@ https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1401,6 +1447,7 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1416,6 +1463,7 @@ https://live.amelbatv.co:81/bethelcolombia/index.fmp4.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1431,6 +1479,7 @@ https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1446,6 +1495,7 @@ https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGci
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1461,6 +1511,7 @@ https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1476,6 +1527,7 @@ https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1491,6 +1543,7 @@ https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1506,6 +1559,7 @@ https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02c
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1521,6 +1575,7 @@ https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/p
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1536,6 +1591,7 @@ https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1557,6 +1613,7 @@ https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTVLCOPT:preferred-resolution=480
 EXTVLCOPT:adaptive-max-bandwidth=1000000
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8?ads.vf=pZi5TZqLjCe
 #EXTINF:0 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/hKUsZoRvppCCsgJzAusXiff4sZ9AsHTftkWz4k6FMKrfWSXPNwfxt7UiiP5Gq0kZl86BGSpNImvWMJQcLdyf" group-title="SEÑAL ABIERTA",157. angel tv
@@ -1566,6 +1623,7 @@ https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8?ads.vf=pZi5TZqLjCe
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1581,6 +1639,7 @@ https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_a
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1596,6 +1655,7 @@ https://livestream.mediacci.com/ccitv/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1611,6 +1671,7 @@ https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1626,6 +1687,7 @@ http://168.196.127.137:6001/play/a071/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1641,6 +1703,7 @@ https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1656,6 +1719,7 @@ https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1671,6 +1735,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1686,6 +1751,7 @@ https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1701,6 +1767,7 @@ http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1716,6 +1783,7 @@ https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/in
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 #EXTVLCOPT:audio-track-id=1
@@ -1731,6 +1799,7 @@ https://liveingesta318.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1746,6 +1815,7 @@ https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1761,6 +1831,7 @@ https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1776,6 +1847,7 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1791,6 +1863,7 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1812,6 +1885,7 @@ http://190.83.15.112:8000/play/a008/index.m3u8
 #EXTVLCOPT:preferred-resolution=480
 EXTVLCOPT:adaptive-max-bandwidth=1000000
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 https://jmp2.uk/rok-c5c6a54fbd0328b108453e2537b7eee1.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://foros.forounivers.com/uploads/monthly_2025_09/large.TNTNovelasWhite.png.83b4b3cb028f1c3337482d8fb9587186.png" group-title="SEÑAL ABIERTA",174. TNT Novelas
@@ -1821,6 +1895,7 @@ https://jmp2.uk/rok-c5c6a54fbd0328b108453e2537b7eee1.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1836,6 +1911,7 @@ http://190.83.15.112:8000/play/a06i/index.m3u8?hls
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1851,6 +1927,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1866,6 +1943,7 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=6743dae9f0cbef3a2802e
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1881,6 +1959,7 @@ https://jmp2.uk/rok-0de9839c79b758589c580dcdd4b40a8a.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1896,6 +1975,7 @@ https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1911,6 +1991,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13745&avod=1&coppa=0&td=6&
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1926,6 +2007,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1947,6 +2029,7 @@ https://api-ott-azteca-azt.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=1
 #EXTVLCOPT:preferred-resolution=480
 EXTVLCOPT:adaptive-max-bandwidth=1000000
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
 http://190.60.45.197:2222/play/a03c/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/ywwBrbeoMdmZ0n1a3HYy/image.jpg" group-title="SEÑAL ABIERTA",183. RCN
@@ -1956,6 +2039,7 @@ http://190.60.45.197:2222/play/a03c/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1971,6 +2055,7 @@ http://181.78.14.26:4000/play/a02t/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -1986,6 +2071,7 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2001,6 +2087,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2016,6 +2103,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2031,6 +2119,7 @@ http://181.119.177.253:8000/play/a03r/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2046,6 +2135,7 @@ https://s10host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2061,6 +2151,7 @@ http://181.119.177.253:8000/play/a0d2/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2076,6 +2167,7 @@ https://linear-318.frequency.stream/dist/vizio/318/hls/master/playlist.m3u8?ads.
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2091,6 +2183,7 @@ https://jmp2.uk/rok-1d889b474b205fe385a2c552aa909b94.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2106,6 +2199,7 @@ https://jmp2.uk/rok-ab6cd6569bf6557a8c5d9798cfce202b.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2121,6 +2215,7 @@ https://jmp2.uk/rok-396f57d10b5d5ec98648f810dcbe1f11.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2136,6 +2231,7 @@ https://jmp2.uk/rok-7b5699f58b2b54be9da4d23fe354fb59.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2151,6 +2247,7 @@ https://jmp2.uk/rok-c51c18ade0bd5b68b5e9bfa83410e372.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2166,6 +2263,7 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2181,6 +2279,7 @@ https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2196,6 +2295,7 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2211,6 +2311,7 @@ http://181.119.185.32:8000/play/a01r/index.m3u8?hls
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2226,6 +2327,7 @@ https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2241,6 +2343,7 @@ https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2256,6 +2359,7 @@ https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2271,6 +2375,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=17003&avod=1&coppa=0&td=6&
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2286,6 +2391,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16288&avod=1&coppa=0&td=6&
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2301,6 +2407,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951140/hls/master.m3u8?ads.xumo_cha
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2316,6 +2423,7 @@ https://amg00735-amg00735c15-rakuten-es-8598.playouts.now.amagi.tv/playlist/amg0
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2331,6 +2439,7 @@ http://179.60.224.196:8000/play/a0ep/index.m3u8?hls
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2346,6 +2455,7 @@ https://jmp2.uk/rok-db95a237643ea0eea113c6c024515df2.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2361,6 +2471,7 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999306
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2376,6 +2487,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991746/hls/xumo.m3u8?includeAssetTa
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2391,6 +2503,7 @@ https://jmp2.uk/rok-770c7e1794505869b1ce94c84905ecea.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2406,6 +2519,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13744&avod=1&coppa=0&td=6&
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2421,6 +2535,7 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814578/hls/master.m3u8?includeAsse
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2436,6 +2551,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13917&avod=1&coppa=0&td=6&
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2451,6 +2567,7 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2466,6 +2583,7 @@ http://181.79.86.130:8000/play/a00q/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2481,6 +2599,7 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2496,6 +2615,7 @@ https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-68b74a235dc5
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2511,6 +2631,7 @@ https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2526,6 +2647,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16intern
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2541,6 +2663,7 @@ https://amg27441-amg27441c2-rlaxx-us-10924.playouts.now.amagi.tv/playlist/amg274
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2556,6 +2679,7 @@ http://181.224.255.210:8001/play/a0mp/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2571,6 +2695,7 @@ https://travelxp-travelxp-5-es.lg.wurl.tv/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
 #EXTVLCOPT:audio-track-id=1
@@ -2586,6 +2711,7 @@ https://iptv.bitred.cl/ELGOURMET_HD/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2601,6 +2727,7 @@ http://209.14.100.200:48000/play/a0dl/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2616,6 +2743,7 @@ https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2637,6 +2765,7 @@ https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999225
 #EXTVLCOPT:preferred-resolution=480
 EXTVLCOPT:adaptive-max-bandwidth=1000000
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 http://45.167.1.136:8000/play/a02i
 #EXTINF:0 tvg-id="" tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/JWnPewjgYekQNPQGozHd/image.jpg" group-title="SEÑAL ABIERTA",229. perfil tv
@@ -2659,6 +2788,7 @@ https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UC
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2674,6 +2804,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=1787194388500&network_i
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2689,6 +2820,7 @@ https://negociostv-negociostv-rlaxx.amagi.tv/hls/amagi_hls_data_negociost-negoci
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2704,6 +2836,7 @@ https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2719,6 +2852,7 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814626/hls/master.m3u8?includeAsse
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2734,6 +2868,7 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2749,6 +2884,7 @@ https://d29h829bjuxghm.cloudfront.net/hls/index.m3u8?ads.xumo_channelId=99992174
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2764,6 +2900,7 @@ https://jmp2.uk/rok-8acb4f9b8a255216966db355daaa1749.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2779,6 +2916,7 @@ https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2794,6 +2932,7 @@ https://amg00567-estrellamedia-estrellanews-distrotv-ddste.amagi.tv/playlist/amg
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2809,6 +2948,7 @@ http://45.5.118.152:8000/play/a08w/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2824,6 +2964,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2839,6 +2980,7 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2854,6 +2996,7 @@ http://45.5.118.136:8888/play/a0br/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2869,6 +3012,7 @@ https://s9host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2884,6 +3028,7 @@ https://jmp2.uk/rok-a9aae4e62e6fd8e401033cd14ceeaaa2.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http://45.70.168.162:55555/playlist.m3u8
 #EXTVLCOPT:audio-track-id=1
@@ -2899,6 +3044,7 @@ http://45.70.168.162:55555/play/a00r/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2914,6 +3060,7 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2929,6 +3076,7 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2944,6 +3092,7 @@ https://streamingmcbo.ddns.net:8081/ucltelevision/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2959,6 +3108,7 @@ https://jmp2.uk/rok-ceb64d994c7756c2a8f09ace94c3e43f.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2974,6 +3124,7 @@ https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -2989,6 +3140,7 @@ https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3004,6 +3156,7 @@ https://jmp2.uk/rok-46eb1feb60da2bc45bee66f313b564de.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3025,6 +3178,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13741&avod=1&coppa=0&td=6&
 #EXTVLCOPT:preferred-resolution=480
 EXTVLCOPT:adaptive-max-bandwidth=1000000
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 https://mdstrm.com/audio/632c9c1cbc02c60329991efa/icecast.audio
 #EXTINF:0 tvg-id="" tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/jfxX8Nfn1RLkPrPzkZcm/image.jpg" group-title="SEÑAL ABIERTA",255. actualidad 360
@@ -3034,6 +3188,7 @@ https://mdstrm.com/audio/632c9c1cbc02c60329991efa/icecast.audio
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3049,6 +3204,7 @@ https://amg01821-amg01821c27-rakuten-gb-8652.playouts.now.amagi.tv/playlist/amg0
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3064,6 +3220,7 @@ https://jmp2.uk/stvp-ESBC1400001L8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3079,6 +3236,7 @@ https://jmp2.uk/stvp-ESBC39000033J
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3094,6 +3252,7 @@ https://api-ott.multimedios.com/loggingmediaurlpassthrough/a.m3u8?avod=1&app_nam
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3109,6 +3268,7 @@ https://tv.arkeo.cl:1936/raicesarabestv/raicesarabestv/playlist.m3u8?PlaylistM3U
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3124,6 +3284,7 @@ https://live.streamhch.com/live/streams/hch1.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3139,6 +3300,7 @@ https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWE
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3154,6 +3316,7 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3169,6 +3332,7 @@ https://vivo.canaloncelive.tv/secureoncedos/oncedigital/chunklist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3184,6 +3348,7 @@ https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3199,6 +3364,7 @@ https://movil.ejeserver.com/live/elmundodelcampo.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3214,6 +3380,7 @@ http://190.61.47.54:8000/play/a01k/index.m3u8?hls
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3229,6 +3396,7 @@ https://jmp2.uk/stvp-ESBC4700002TD
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3244,6 +3412,7 @@ https://jmp2.uk/stvp-ES1600003FF
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3259,6 +3428,7 @@ http://45.70.168.162:55555/play/a00b/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3274,6 +3444,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeeme
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3289,6 +3460,7 @@ https://amg00793-amg00793c24-vidaa-gb-9957.playouts.now.amagi.tv/ts-eu-w1-n2/pla
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3304,6 +3476,7 @@ https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3319,6 +3492,7 @@ https://stmv2.voxtvhd.com.br/xpherewild/xpherewild/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3334,6 +3508,7 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3349,6 +3524,7 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3364,6 +3540,7 @@ http://45.70.168.162:1935/play/a003/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3379,6 +3556,7 @@ http://45.171.64.30:8800/play/a021
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3394,6 +3572,7 @@ https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3409,6 +3588,7 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3424,6 +3604,7 @@ https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-6a3c2c8c14e4
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3439,6 +3620,7 @@ https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-6154a863e3e4
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3454,6 +3636,7 @@ http://45.180.114.249:8087/play/a0k4/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3469,6 +3652,7 @@ http://45.70.168.162:1935/play/a016/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3484,6 +3668,7 @@ http://205.235.6.29:8000/play/a0yt/index.m3u8?hls
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3499,6 +3684,7 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3514,6 +3700,7 @@ https://s9host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3529,6 +3716,7 @@ https://s10host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3544,6 +3732,7 @@ https://s10host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3559,6 +3748,7 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999263
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3574,6 +3764,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13743&avod=1&coppa=0&td=6&
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3589,6 +3780,7 @@ https://amg01821-amg01821c23-xiaomi-international-4612.playouts.now.amagi.tv/pla
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3604,6 +3796,7 @@ http://45.5.117.3:4000/play/a04y/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3619,6 +3812,7 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999217
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3634,6 +3828,7 @@ http://190.121.128.250:8081/play/a0fs
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3649,6 +3844,7 @@ https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg0
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3670,6 +3866,7 @@ https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999226
 #EXTVLCOPT:preferred-resolution=480
 EXTVLCOPT:adaptive-max-bandwidth=1000000
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 http://190.83.15.112:8000/play/a066/index.m3u8?hls
 #EXTINF:0 tvg-id="" tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/H2gXZXJTYwqYYYYUl0O0/image.jpg" group-title="SEÑAL ABIERTA",298. Canal 34 San Juan
@@ -3679,6 +3876,7 @@ http://190.83.15.112:8000/play/a066/index.m3u8?hls
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3694,6 +3892,7 @@ https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3709,6 +3908,7 @@ https://s.emisoras.tv:8081/tvcopan/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3724,6 +3924,7 @@ https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3739,6 +3940,7 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3754,6 +3956,7 @@ https://imagenuniversaltv.net:3771/hybrid/play.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3769,6 +3972,7 @@ https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3784,6 +3988,7 @@ https://canaletaplus.com:3922/hybrid/play.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3799,6 +4004,7 @@ https://tv2.bitstreaming.net:8443/hls/r-e-tv.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3815,6 +4021,7 @@ http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3830,6 +4037,7 @@ https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3845,6 +4053,7 @@ https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3860,6 +4069,7 @@ https://jmp2.uk/stvp-ESBD800001RJ
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3875,6 +4085,7 @@ https://amg02724-somos-amg02724c1-lg-co-683.playouts.now.amagi.tv/playlist/amg02
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3890,6 +4101,7 @@ https://streams2.sofast.tv/sofast3/v1/019835b204cf1ea50649363a59b188/019835c7f7d
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3905,6 +4117,7 @@ https://streams2.sofast.tv/umaxx/v1/01971c1e82751ebd47042b72b0c032/01971c2023791
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3925,6 +4138,7 @@ https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg0
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 http://mallorca.plus/live/3LinHLgnD2025tvViP/a18a55eb81d7aaf8/46104.ts
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ytimg.com/vi/aMlFRAtDEuE/maxresdefault.jpg" group-title="SEÑAL ABIERTA",315. cindie tv
@@ -3934,6 +4148,7 @@ http://mallorca.plus/live/3LinHLgnD2025tvViP/a18a55eb81d7aaf8/46104.ts
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3949,6 +4164,7 @@ https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3964,6 +4180,7 @@ http://181.78.8.199:8000/play/a0bt/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3979,6 +4196,7 @@ https://s2.tvdatta.com:3825/live/redtvelive.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -3994,6 +4212,7 @@ https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999226
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4009,6 +4228,7 @@ https://edge.essastream.com/xtratv/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4029,6 +4249,7 @@ https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4040,10 +4261,10 @@ http://playstreaming.net/live/Pedro2407pere/PwjjkHGYft/46142.ts
 #EXTINF:0 tvg-id="https://www.televisiongratishd.org/golden-edge-en-vivo.php" tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/KpPbGroLUaulhu3lBlks/image.jpg" group-title="SEÑAL ABIERTA",322. Golden edge
 #EXTGRP:SEÑAL ABIERTA
 #EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:avcodec-hw=any
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4059,6 +4280,7 @@ https://regionales.saohgdassregions.com/playlist/69/index.m3u8?token=b936fa9db2b
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4074,6 +4296,7 @@ https://live-manifest.production-public.tubi.io/live/3900e8be-5992-4e76-9d58-9f8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4089,6 +4312,7 @@ http://45.5.59.237:8000/play/a02i/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4104,6 +4328,7 @@ https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4119,6 +4344,7 @@ https://jmp2.uk/rok-b015fcbafb496320954672321e746f8a.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4134,6 +4360,7 @@ http://181.78.208.254:8080/play/a0im/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4149,6 +4376,7 @@ http://181.119.67.133:8888/play/a04k/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4164,6 +4392,7 @@ http://181.78.208.254:8080/play/a0ij/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4179,6 +4408,7 @@ http://200.59.191.177:8000/play/a06z/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4194,6 +4424,7 @@ http://181.78.12.94:9000/play/a09d/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4209,6 +4440,7 @@ http://190.123.76.22:8002/play/a04r/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4224,6 +4456,7 @@ http://181.205.205.170:8000/play/a0vc/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4239,6 +4472,7 @@ https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4254,6 +4488,7 @@ http://181.119.67.133:8888/play/a019/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4269,6 +4504,7 @@ http://190.123.76.22:8002/play/a02o/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4284,6 +4520,7 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4299,6 +4536,7 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4314,6 +4552,7 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4329,6 +4568,7 @@ http://181.78.8.199:8000/play/a0cr/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4344,6 +4584,7 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4359,6 +4600,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4374,6 +4616,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=12781&avod=1&coppa=0&td=6&
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4389,6 +4632,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958&avod=1&coppa=0&td=6&
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4404,6 +4648,7 @@ https://amg00740-sofa-amg00740c21-lg-mx-9398.playouts.now.amagi.tv/playlist/amg0
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4419,6 +4664,7 @@ http://45.167.1.136:8000/play/a02f
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4434,6 +4680,7 @@ http://45.167.1.136:8000/play/a00a
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4449,6 +4696,7 @@ http://45.167.1.136:8000/play/a02t
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4464,6 +4712,7 @@ http://45.167.1.136:8000/play/a04k
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4479,6 +4728,7 @@ http://45.167.1.136:8000/play/a05f
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4494,6 +4744,7 @@ http://190.123.76.22:8002/play/a03k/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4509,6 +4760,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16571&avod=1&coppa=0&td=6&
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4524,6 +4776,7 @@ https://jmp2.uk/rok-017397f76bae510a8a9800c4b94eaa40.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4539,6 +4792,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16511&avod=1&coppa=0&td=6&
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4554,6 +4808,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16513&avod=1&coppa=0&td=6&
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4569,6 +4824,7 @@ https://jmp2.uk/rok-9fc6583c28985e15b3f05b46f5d77957.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4584,6 +4840,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16512&avod=1&coppa=0&td=6&
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4599,6 +4856,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16514&avod=1&coppa=0&td=6&
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4614,6 +4872,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16563&avod=1&coppa=0&td=6&
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4629,6 +4888,7 @@ https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4644,6 +4904,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16562&avod=1&coppa=0&td=6&
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4659,6 +4920,7 @@ https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4674,6 +4936,7 @@ http://45.5.117.99:8000/play/a0hp/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4689,6 +4952,7 @@ http://181.176.20.167:9050/play/a0q4/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4704,6 +4968,7 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4719,6 +4984,7 @@ https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4734,6 +5000,7 @@ https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4749,6 +5016,7 @@ https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4764,6 +5032,7 @@ https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4779,6 +5048,7 @@ https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4794,6 +5064,7 @@ https://amg00740-sofa-amg00740c10-lg-mx-8915.playouts.now.amagi.tv/playlist/amg0
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4809,6 +5080,7 @@ https://amg00740-sofa-amg00740c20-lg-mx-8976.playouts.now.amagi.tv/playlist/amg0
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4824,6 +5096,7 @@ https://amg00740-sofa-amg00740c14-lg-mx-8914.playouts.now.amagi.tv/playlist/amg0
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4839,6 +5112,7 @@ https://amg00740-sofa-amg00740c19-lg-mx-8924.playouts.now.amagi.tv/playlist/amg0
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4854,6 +5128,7 @@ https://jmp2.uk/rok-5b4b59af18ff5686916ef5eb3574de46.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4869,6 +5144,7 @@ https://jmp2.uk/rok-4010582bb66b58a69151a4f552de0823.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4884,6 +5160,7 @@ https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4899,6 +5176,7 @@ https://jmp2.uk/plu-687fea9a4fa995eff284a1c8.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4914,6 +5192,7 @@ https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4929,6 +5208,7 @@ https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4944,6 +5224,7 @@ https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4959,6 +5240,7 @@ https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4974,6 +5256,7 @@ https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -4989,6 +5272,7 @@ https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5004,6 +5288,7 @@ https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5019,6 +5304,7 @@ https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5034,6 +5320,7 @@ https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5049,6 +5336,7 @@ https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5064,6 +5352,7 @@ https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5079,6 +5368,7 @@ https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5094,6 +5384,7 @@ https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5109,6 +5400,7 @@ https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5124,6 +5416,7 @@ https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5139,6 +5432,7 @@ https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5154,6 +5448,7 @@ https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5169,6 +5464,7 @@ https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5184,6 +5480,7 @@ https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5199,6 +5496,7 @@ https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5214,6 +5512,7 @@ https://spanish-cinema-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788be
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5229,6 +5528,7 @@ https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5244,6 +5544,7 @@ https://romance-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b7
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5259,6 +5560,7 @@ https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5274,6 +5576,7 @@ https://stmvideo1.livecastv.com/tele5trelew/tele5trelew/playlist.m3u8?hls_ctx=92
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5289,6 +5592,7 @@ https://amg00740-sofa-amg00740c11-lg-mx-8923.playouts.now.amagi.tv/playlist/amg0
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5304,6 +5608,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5319,6 +5624,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5334,6 +5640,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5349,6 +5656,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5364,6 +5672,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5379,6 +5688,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5394,6 +5704,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5409,6 +5720,7 @@ http://166.1.69.254:8000/play/a0gm/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5425,6 +5737,7 @@ http://t365.in:80/XENON30909D/1261587675/3465
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5439,6 +5752,7 @@ EXTVLCOPT:adaptive-max-bandwidth=1000000
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5454,6 +5768,7 @@ http://190.111.23.155:9999/play/a0l5/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5469,6 +5784,7 @@ http://45.192.3.47:8000/play/a0a9/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5484,6 +5800,7 @@ http://45.192.3.47:8000/play/a09u/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5499,6 +5816,7 @@ http://181.78.71.4:9003/play/a04w/index.m3u8?hls
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5514,6 +5832,7 @@ https://jmp2.uk/rok-5a28fbf15c135b51b3638e8bd02d6577.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5529,6 +5848,7 @@ https://jmp2.uk/rok-02aa7b1a311bf3dde1883ea9b1fc9ee5.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5544,6 +5864,7 @@ https://radio.radioislamico.com/9300/stream
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5559,6 +5880,7 @@ https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5574,6 +5896,7 @@ https://redradioypc.com:8028/stream
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5589,6 +5912,7 @@ https://dq1c55erlhlb2.cloudfront.net/out/v1/prod-mtai-live-shared/prod_mta8_amer
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=https://odysee.com
 #EXTVLCOPT:audio-track-id=1
@@ -5604,6 +5928,7 @@ https://cloud.odysee.live/content/df0a443c1e8e53babc41fede14548c9b5fd1a6d2/maste
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5619,6 +5944,7 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5634,6 +5960,7 @@ https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5649,6 +5976,7 @@ https://amg17724-amg17724c1-lg-latam-11388.playouts.now.amagi.tv/ts-us-w2-n1/pla
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5664,6 +5992,7 @@ https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5679,6 +6008,7 @@ https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5694,6 +6024,7 @@ http://45.70.168.162:646/play/a02a/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5709,6 +6040,7 @@ http://23.153.217.158:8080/0110.OMAR8417xyav/2025.SANTIAGO9488gg/59583
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5724,6 +6056,7 @@ http://181.78.79.131:8000/play/a0pk
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5739,6 +6072,7 @@ https://jmp2.uk/stvp-ES300029LP
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5754,6 +6088,7 @@ https://jmp2.uk/stvp-ES3000288I
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5769,6 +6104,7 @@ http://181.78.12.119:16123/play/ch02/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5784,6 +6120,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=11855
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5799,6 +6136,7 @@ https://190.61.47.54:8000/play/a031/index.m3u8?hls
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5814,6 +6152,7 @@ http://45.190.187.183:8080/play/a1kr
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5829,6 +6168,7 @@ http://45.5.118.136:8888/play/a00p/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5844,6 +6184,7 @@ http://45.70.168.162:646//play/a015/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5859,6 +6200,7 @@ https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5874,6 +6216,7 @@ http://181.78.12.119:16123/play/ch06/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5889,6 +6232,7 @@ http://45.5.118.136:8888/play/a0b9/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5904,6 +6248,7 @@ https://jmp2.uk/stvp-ESBD3200002V5
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5919,6 +6264,7 @@ https://jmp2.uk/stvp-ES4800002OZ
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5934,6 +6280,7 @@ https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5949,6 +6296,7 @@ https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5964,6 +6312,7 @@ http://45.171.64.30:8800/play/a014
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5979,6 +6328,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=514&a
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -5999,6 +6349,7 @@ http://181.78.12.119:16123/play/ch203/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6014,6 +6365,7 @@ http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/10018.ts
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6029,6 +6381,7 @@ https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6044,6 +6397,7 @@ https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6059,6 +6413,7 @@ https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6074,6 +6429,7 @@ https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6089,6 +6445,7 @@ https://jmp2.uk/stvp-ESBC3900004ED
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6104,6 +6461,7 @@ https://jmp2.uk/stvp-ES2100002BU
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6119,6 +6477,7 @@ https://jmp2.uk/stvp-ESBD2300003S5
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6134,6 +6493,7 @@ https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6149,6 +6509,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6164,6 +6525,7 @@ https://live-manifest.production-public.tubi.io/live/1d55cb91-9acf-4617-9207-0ce
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6179,6 +6541,7 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6194,6 +6557,7 @@ https://8b35224b42fd4ae797ea4d8b205f8368.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6209,6 +6573,7 @@ https://hls.tvabierta.net/hls/036.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6224,6 +6589,7 @@ https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6239,6 +6605,7 @@ https://jmp2.uk/stvp-ES3400002PY
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6254,6 +6621,7 @@ https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6269,6 +6637,7 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6284,6 +6653,7 @@ https://2b77fda3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYW
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6299,6 +6669,7 @@ https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbX
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6314,6 +6685,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaes-lges/play
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6329,6 +6701,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvuses-lgmx/playli
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6344,6 +6717,7 @@ https://jmp2.uk/stvp-ESBD2900001P9
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6359,6 +6733,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=757&livestream=1&live=1&ap
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6374,6 +6749,7 @@ https://d62ninziq0nps.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da6
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6389,6 +6765,7 @@ http://31.43.191.125:8080/live/VIP0191170165882838/0c2c0c0a9134/281.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6404,6 +6781,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PSEKSZ2L77GDTD/31848/ind
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6419,6 +6797,7 @@ http://181.119.177.253:8000/play/a0do/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6434,6 +6813,7 @@ http://45.167.1.136:8000/play/a02m
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6449,6 +6829,7 @@ http://181.119.177.253:8000/play/a03c/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6464,6 +6845,7 @@ https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_ch
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6479,6 +6861,7 @@ https://jmp2.uk/rok-04be54c79d1f55d0909e684f64f9fb57.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6494,6 +6877,7 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6509,6 +6893,7 @@ http://45.173.231.22:8000/play/a020/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6524,6 +6909,7 @@ http://190.83.15.112:8000/play/a09e/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6539,6 +6925,7 @@ http://190.83.15.112:8000/play/a03q/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6554,6 +6941,7 @@ http://190.61.42.218:9000/play/a01s/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6569,6 +6957,7 @@ http://190.61.42.218:9000/play/a05t/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6584,6 +6973,7 @@ http://181.224.255.210:8001/play/a0oj/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6599,6 +6989,7 @@ http://45.171.64.30:8800/play/a025
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6614,6 +7005,7 @@ http://190.61.42.218:9000/play/a07f/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6629,6 +7021,7 @@ http://181.78.168.38:8000/play/a0e7
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6644,6 +7037,7 @@ http://181.78.71.230:8001/play/a01q?hls
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6659,6 +7053,7 @@ http://181.78.71.230:8001/play/a015?hls
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6674,6 +7069,7 @@ http://kytv.xyz:80/brendan1/brendan1/220408.ts
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6689,6 +7085,7 @@ http://181.209.87.158:8000/play/a086/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6704,6 +7101,7 @@ http://181.119.177.253:8000/play/a0dz/index.m3u8
 #EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
@@ -6716,8 +7114,10 @@ https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 #EXTGRP:SEÑAL ABIERTA
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
+#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
