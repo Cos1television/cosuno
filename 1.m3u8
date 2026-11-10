@@ -4261,10 +4261,8 @@ http://playstreaming.net/live/Pedro2407pere/PwjjkHGYft/46142.ts
 #EXTINF:0 tvg-id="https://www.televisiongratishd.org/golden-edge-en-vivo.php" tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/KpPbGroLUaulhu3lBlks/image.jpg" group-title="SEÑAL ABIERTA",322. Golden edge
 #EXTGRP:SEÑAL ABIERTA
 #EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:skip-frames
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
-#EXTVLCOPT:demux=h264
 #EXTVLCOPT:token=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:audio-track-id=1
