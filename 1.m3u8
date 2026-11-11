@@ -298,7 +298,6 @@ http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog
 
 #EXTINF:0 tvg-id="" tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/88eDsgONsPzwlnbWCekc/image.png" group-title="SIN SEÑAL",099. 
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/88eDsgONsPzwlnbWCekc/image.png" group-title="SIN SEÑAL",100. 
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
@@ -1346,7 +1345,6 @@ https://tv2.bitstreaming.net:8443/hls/r-e-tv.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/vtf5qeG2VdJCCcbEsGgN/image.png" group-title="SEÑAL ABIERTA",306. Cos1 televisión (canal local de cierre)
 #EXTVLCOPT:http-user-agent=Roku/DVP-16.0 (16.0.4.821-H8)
 #EXTVLCOPT:http-referrer=
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://plain-enam-prod-public.komododecks.com/202611/02/yUMWmc0dC6tCXI20ipZ0/image.jpg" group-title="SEÑAL ABIERTA",307. box cinema
